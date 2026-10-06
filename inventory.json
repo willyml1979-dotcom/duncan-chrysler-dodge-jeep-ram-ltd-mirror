@@ -1,7 +1,7 @@
 {
   "dealership": "Duncan Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-10-04T19:14:55",
-  "vehicle_count": 215,
+  "generated_at": "2026-10-06T09:56:00",
+  "vehicle_count": 214,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -26,6 +26,7 @@
       "vin": "5XYZUDLA9GG369953",
       "stock": "FP73804",
       "color": "Blue",
+      "trim": "Sport 2.0T Limited",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/69ab90e9fd75.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2016/hyundai/santa-fe-sport/duncan/bc/71059630/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2016/hyundai/santa-fe-sport/duncan/bc/71059630/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -35,7 +36,7 @@
       "odometer_km": 101010,
       "year": 2016,
       "make": "Hyundai",
-      "model": "Santa Fe Sport AWD 4dr 2.0T Limited",
+      "model": "Santa Fe",
       "condition": "used"
     },
     {
@@ -43,6 +44,7 @@
       "vin": "WBXHT3C36H5F86175",
       "stock": "FP86175",
       "color": "Blue",
+      "trim": "xDrive28i",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/749e926ec95d.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2017/bmw/x1/duncan/bc/71433505/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2017/bmw/x1/duncan/bc/71433505/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -52,7 +54,7 @@
       "odometer_km": 73642,
       "year": 2017,
       "make": "BMW",
-      "model": "X1 xDrive28i",
+      "model": "X1",
       "condition": "used"
     },
     {
@@ -60,6 +62,7 @@
       "vin": "1FMCU9G95HUB18538",
       "stock": "FP18538",
       "color": "Black",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/03f37770a299.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2017/ford/escape/duncan/bc/71435036/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2017/ford/escape/duncan/bc/71435036/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -69,7 +72,7 @@
       "odometer_km": 92900,
       "year": 2017,
       "make": "Ford",
-      "model": "Escape SE",
+      "model": "Escape",
       "condition": "used"
     },
     {
@@ -77,6 +80,7 @@
       "vin": "1FMJU2AT0HEA43230",
       "stock": "FP43230",
       "color": "Black",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/88692364c354.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2017/ford/expedition/duncan/bc/70977620/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2017/ford/expedition/duncan/bc/70977620/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -86,7 +90,7 @@
       "odometer_km": 155162,
       "year": 2017,
       "make": "Ford",
-      "model": "Expedition Limited 4WD",
+      "model": "Expedition",
       "condition": "used"
     },
     {
@@ -94,6 +98,7 @@
       "vin": "3C4NJDDB2JT326165",
       "stock": "FP26165",
       "color": "White",
+      "trim": "Trailhawk",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/b6d18f4cdadc.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2018/jeep/compass/duncan/bc/70977601/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2018/jeep/compass/duncan/bc/70977601/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -103,7 +108,7 @@
       "odometer_km": 56510,
       "year": 2018,
       "make": "Jeep",
-      "model": "Compass Trailhawk 4x4",
+      "model": "Compass",
       "condition": "used"
     },
     {
@@ -111,6 +116,7 @@
       "vin": "3C4NJDBB2KT661558",
       "stock": "F26CP29",
       "color": "Black",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/649bf2e4848c.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2019/jeep/compass/duncan/bc/71351006/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2019/jeep/compass/duncan/bc/71351006/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -120,7 +126,7 @@
       "odometer_km": 79887,
       "year": 2019,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "used"
     },
     {
@@ -128,6 +134,7 @@
       "vin": "1C4RJFAG2KC680102",
       "stock": "FP80102",
       "color": "Silver",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/8343bfffcbe0.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2019/jeep/grand-cherokee/duncan/bc/70977613/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2019/jeep/grand-cherokee/duncan/bc/70977613/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -137,7 +144,7 @@
       "odometer_km": 78328,
       "year": 2019,
       "make": "Jeep",
-      "model": "Grand Cherokee Altitude 4x4",
+      "model": "Grand Cherokee",
       "condition": "used"
     },
     {
@@ -145,6 +152,7 @@
       "vin": "KL7CJRSB7LB325991",
       "stock": "FP89150",
       "color": "Black",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/aeb709eabec3.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2020/chevrolet/trax/duncan/bc/71250534/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2020/chevrolet/trax/duncan/bc/71250534/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -154,7 +162,7 @@
       "odometer_km": 83728,
       "year": 2020,
       "make": "Chevrolet",
-      "model": "Trax AWD 4dr Premier",
+      "model": "Trax",
       "condition": "used"
     },
     {
@@ -162,6 +170,7 @@
       "vin": "1C4RDJDG3LC258606",
       "stock": "FP58606",
       "color": "Black",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/64930e2a6659.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2020/dodge/durango/duncan/bc/70977594/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2020/dodge/durango/duncan/bc/70977594/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -171,7 +180,7 @@
       "odometer_km": 113924,
       "year": 2020,
       "make": "Dodge",
-      "model": "Durango GT AWD",
+      "model": "Durango",
       "condition": "used"
     },
     {
@@ -179,6 +188,7 @@
       "vin": "1FT8W3BT6LEC84039",
       "stock": "FP84039",
       "color": "White",
+      "trim": "Super Duty",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/0bb7ba268d20.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2020/ford/f-350-super-duty/duncan/bc/71367733/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2020/ford/f-350-super-duty/duncan/bc/71367733/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -188,7 +198,7 @@
       "odometer_km": 107786,
       "year": 2020,
       "make": "Ford",
-      "model": "F-350 Super Duty",
+      "model": "F-350",
       "condition": "used"
     },
     {
@@ -196,6 +206,7 @@
       "vin": "1FMCU9G60MUA53050",
       "stock": "FP53050",
       "color": "Blue",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/02c3f5f78218.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2021/ford/escape/duncan/bc/70192346/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2021/ford/escape/duncan/bc/70192346/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -205,7 +216,7 @@
       "odometer_km": 93499,
       "year": 2021,
       "make": "Ford",
-      "model": "Escape SE",
+      "model": "Escape",
       "condition": "used"
     },
     {
@@ -213,6 +224,7 @@
       "vin": "1FMJU1JT4MEA47060",
       "stock": "FP47060",
       "color": "White",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/f777a7f95c00.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2021/ford/expedition/duncan/bc/70994332/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2021/ford/expedition/duncan/bc/70994332/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -222,7 +234,7 @@
       "odometer_km": 49188,
       "year": 2021,
       "make": "Ford",
-      "model": "Expedition XLT 4x4",
+      "model": "Expedition",
       "condition": "used"
     },
     {
@@ -247,6 +259,7 @@
       "vin": "KM8K2CAA4MU728233",
       "stock": "F26CP29",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/c51a9e6746cb.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2021/hyundai/kona/duncan/bc/71323107/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2021/hyundai/kona/duncan/bc/71323107/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -256,7 +269,7 @@
       "odometer_km": 102259,
       "year": 2021,
       "make": "Hyundai",
-      "model": "Kona Preferred AWD",
+      "model": "Kona",
       "condition": "used"
     },
     {
@@ -264,6 +277,7 @@
       "vin": "4JGFB5KB1MA401486",
       "stock": "FP01486",
       "color": "Grey",
+      "trim": "GLE 450 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/0c9757def795.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2021/mercedes-benz/gle/duncan/bc/69976863/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2021/mercedes-benz/gle/duncan/bc/69976863/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -273,7 +287,7 @@
       "odometer_km": 103521,
       "year": 2021,
       "make": "Mercedes-Benz",
-      "model": "GLE GLE 450 4MATIC SUV",
+      "model": "GLE",
       "condition": "used"
     },
     {
@@ -281,6 +295,7 @@
       "vin": "5N1AZ2CSXMC145033",
       "stock": "FP45033",
       "color": "Grey",
+      "trim": "SL",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/9c7269ff9acc.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2021/nissan/murano/duncan/bc/70977619/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2021/nissan/murano/duncan/bc/70977619/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -290,7 +305,7 @@
       "odometer_km": 108707,
       "year": 2021,
       "make": "Nissan",
-      "model": "Murano AWD SL",
+      "model": "Murano",
       "condition": "used"
     },
     {
@@ -298,6 +313,7 @@
       "vin": "5TDGZRBH3MS106537",
       "stock": "FP06537",
       "color": "Red",
+      "trim": "XLE",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/34426ae2ac5a.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2021/toyota/highlander/duncan/bc/71033847/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2021/toyota/highlander/duncan/bc/71033847/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -307,7 +323,7 @@
       "odometer_km": 61145,
       "year": 2021,
       "make": "Toyota",
-      "model": "Highlander XLE AWD",
+      "model": "Highlander",
       "condition": "used"
     },
     {
@@ -315,6 +331,7 @@
       "vin": "3GNKBKRS3NS226267",
       "stock": "FP26267",
       "color": "White",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/3f30d7087357.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2022/chevrolet/blazer/duncan/bc/70235698/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2022/chevrolet/blazer/duncan/bc/70235698/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -324,7 +341,7 @@
       "odometer_km": 87026,
       "year": 2022,
       "make": "Chevrolet",
-      "model": "Blazer RS AWD",
+      "model": "Blazer",
       "condition": "used"
     },
     {
@@ -332,6 +349,7 @@
       "vin": "2GNAXWEV0N6117378",
       "stock": "FP17378",
       "color": "Red",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/233cf9a81a2f.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2022/chevrolet/equinox/duncan/bc/70977604/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2022/chevrolet/equinox/duncan/bc/70977604/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -341,7 +359,7 @@
       "odometer_km": 40243,
       "year": 2022,
       "make": "Chevrolet",
-      "model": "Equinox RS AWD",
+      "model": "Equinox",
       "condition": "used"
     },
     {
@@ -383,6 +401,7 @@
       "vin": "1C4RJHBG8N8531422",
       "stock": "F22GC14",
       "color": "Red",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/5c80e380aecf.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2022/jeep/grand-cherokee/duncan/bc/63990921/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2022/jeep/grand-cherokee/duncan/bc/63990921/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -392,7 +411,7 @@
       "odometer_km": 30677,
       "year": 2022,
       "make": "Jeep",
-      "model": "Grand Cherokee Limited 4x4",
+      "model": "Grand Cherokee",
       "condition": "used"
     },
     {
@@ -400,6 +419,7 @@
       "vin": "1C4HJXFG1NW163158",
       "stock": "FP63158",
       "color": "Grey",
+      "trim": "Unlimited Unlimited Rubicon",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/5724eb9fccc4.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2022/jeep/wrangler-unlimited/duncan/bc/70538460/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2022/jeep/wrangler-unlimited/duncan/bc/70538460/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -409,7 +429,7 @@
       "odometer_km": 60758,
       "year": 2022,
       "make": "Jeep",
-      "model": "Wrangler Unlimited Unlimited Rubicon",
+      "model": "Wrangler",
       "condition": "used"
     },
     {
@@ -417,6 +437,7 @@
       "vin": "5LM5J7XCXNGL01216",
       "stock": "FP01216",
       "color": "Silver",
+      "trim": "Reserve",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/10f5927acfd3.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2022/lincoln/aviator/duncan/bc/70977598/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2022/lincoln/aviator/duncan/bc/70977598/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -426,7 +447,7 @@
       "odometer_km": 55355,
       "year": 2022,
       "make": "Lincoln",
-      "model": "Aviator Reserve AWD",
+      "model": "Aviator",
       "condition": "used"
     },
     {
@@ -434,6 +455,7 @@
       "vin": "ML32AUHJ2NH003956",
       "stock": "FP03956",
       "color": "White",
+      "trim": "ES",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/9d6a518bd26f.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2022/mitsubishi/mirage/duncan/bc/70726742/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2022/mitsubishi/mirage/duncan/bc/70726742/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -443,7 +465,7 @@
       "odometer_km": 80280,
       "year": 2022,
       "make": "Mitsubishi",
-      "model": "Mirage ES",
+      "model": "Mirage",
       "condition": "used"
     },
     {
@@ -451,6 +473,7 @@
       "vin": "ML32AUHJ0NH005964",
       "stock": "FP05964",
       "color": "White",
+      "trim": "Backup Camera",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/b1fcbee5e319.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2022/mitsubishi/mirage/duncan/bc/70847929/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2022/mitsubishi/mirage/duncan/bc/70847929/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -460,7 +483,7 @@
       "odometer_km": 86015,
       "year": 2022,
       "make": "Mitsubishi",
-      "model": "Mirage Backup Camera",
+      "model": "Mirage",
       "condition": "used"
     },
     {
@@ -468,6 +491,7 @@
       "vin": "1C6RR7LT3NS163773",
       "stock": "FP63773",
       "color": "Black",
+      "trim": "Warlock 5'7 Box",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/4d54a60566d4.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2022/ram/1500-classic/duncan/bc/70977595/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2022/ram/1500-classic/duncan/bc/70977595/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -477,7 +501,7 @@
       "odometer_km": 63107,
       "year": 2022,
       "make": "RAM",
-      "model": "1500 Classic Warlock 4x4 Crew Cab 5'7 Box",
+      "model": "1500 Classic",
       "condition": "used"
     },
     {
@@ -485,6 +509,7 @@
       "vin": "1C6SRFLT3NN153612",
       "stock": "FP53612",
       "color": "Blue",
+      "trim": "Rebel 5'7 Box",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/ddfa42f44f27.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2022/ram/1500/duncan/bc/69976868/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2022/ram/1500/duncan/bc/69976868/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -494,7 +519,7 @@
       "odometer_km": 80742,
       "year": 2022,
       "make": "RAM",
-      "model": "1500 Rebel 4x4 Crew Cab 5'7 Box",
+      "model": "1500",
       "condition": "used"
     },
     {
@@ -502,6 +527,7 @@
       "vin": "1C6SRFVT8NN400958",
       "stock": "FP96711",
       "color": "Grey",
+      "trim": "Sport 5'7 Box",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/15e13655675a.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2022/ram/1500/duncan/bc/70064829/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2022/ram/1500/duncan/bc/70064829/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -511,7 +537,7 @@
       "odometer_km": 80274,
       "year": 2022,
       "make": "RAM",
-      "model": "1500 Sport 4x4 Crew Cab 5'7 Box",
+      "model": "1500",
       "condition": "used"
     },
     {
@@ -519,6 +545,7 @@
       "vin": "1C6SRFJT4NN167800",
       "stock": "FP67800",
       "color": "Red",
+      "trim": "Laramie 5'7 Box",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/ec593a98ed44.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2022/ram/1500/duncan/bc/70576600/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2022/ram/1500/duncan/bc/70576600/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -528,7 +555,7 @@
       "odometer_km": 61012,
       "year": 2022,
       "make": "RAM",
-      "model": "1500 Laramie 4x4 Crew Cab 5'7 Box",
+      "model": "1500",
       "condition": "used"
     },
     {
@@ -536,6 +563,7 @@
       "vin": "1C6SRFKM2NN343539",
       "stock": "F26RA59",
       "color": "Red",
+      "trim": "Limited Longhorn 5'7 Box",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/3d1cd7d3c00b.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2022/ram/1500/duncan/bc/71057821/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2022/ram/1500/duncan/bc/71057821/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -545,7 +573,7 @@
       "odometer_km": 96196,
       "year": 2022,
       "make": "RAM",
-      "model": "1500 Limited Longhorn 4x4 Crew Cab 5'7 Box",
+      "model": "1500",
       "condition": "used"
     },
     {
@@ -553,6 +581,7 @@
       "vin": "1C6SRFJT0NN469326",
       "stock": "F26RA00",
       "color": "Black",
+      "trim": "Laramie 5'7 Box",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/d0461d00be80.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2022/ram/1500/duncan/bc/71225624/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2022/ram/1500/duncan/bc/71225624/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -562,7 +591,7 @@
       "odometer_km": 82710,
       "year": 2022,
       "make": "RAM",
-      "model": "1500 Laramie 4x4 Crew Cab 5'7 Box",
+      "model": "1500",
       "condition": "used"
     },
     {
@@ -570,6 +599,7 @@
       "vin": "3FMCR9B60PRD57838",
       "stock": "FP57838",
       "color": "Blue",
+      "trim": "Big Bend",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/f3a8d600dc5a.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2023/ford/bronco-sport/duncan/bc/71016335/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2023/ford/bronco-sport/duncan/bc/71016335/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -579,7 +609,7 @@
       "odometer_km": 89420,
       "year": 2023,
       "make": "Ford",
-      "model": "Bronco Sport Big Bend 4x4",
+      "model": "Bronco Sport",
       "condition": "used"
     },
     {
@@ -604,6 +634,7 @@
       "vin": "1FT8W3BT6PEC52486",
       "stock": "FP52486",
       "color": "White",
+      "trim": "Super Duty XLT",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/404f11a5a4d7.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2023/ford/f-350-super-duty/duncan/bc/70638057/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2023/ford/f-350-super-duty/duncan/bc/70638057/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -613,7 +644,7 @@
       "odometer_km": 36709,
       "year": 2023,
       "make": "Ford",
-      "model": "F-350 Super Duty XLT 4WD / BACK UP CAMERA / LONGBOX!!",
+      "model": "F-350",
       "condition": "used"
     },
     {
@@ -621,6 +652,7 @@
       "vin": "3FMTK3SS5PMA38852",
       "stock": "FP38852",
       "color": "White",
+      "trim": "Premium",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/09f3b7fa3828.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2023/ford/mustang-mach-e/duncan/bc/71016334/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2023/ford/mustang-mach-e/duncan/bc/71016334/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -630,7 +662,7 @@
       "odometer_km": 48680,
       "year": 2023,
       "make": "Ford",
-      "model": "Mustang Mach-E Premium AWD",
+      "model": "Mustang Mach-E",
       "condition": "used"
     },
     {
@@ -638,6 +670,7 @@
       "vin": "1GKKNLLS3PZ250786",
       "stock": "FP50786",
       "color": "White",
+      "trim": "AT4",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/4074f8944f32.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2023/gmc/acadia/duncan/bc/71104810/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2023/gmc/acadia/duncan/bc/71104810/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -647,7 +680,7 @@
       "odometer_km": 41455,
       "year": 2023,
       "make": "GMC",
-      "model": "Acadia AWD 4dr AT4",
+      "model": "Acadia",
       "condition": "used"
     },
     {
@@ -655,6 +688,7 @@
       "vin": "KM8K22AB8PU942603",
       "stock": "FP39452",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/91ee1229541c.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2023/hyundai/kona/duncan/bc/71046214/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2023/hyundai/kona/duncan/bc/71046214/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -664,7 +698,7 @@
       "odometer_km": 56255,
       "year": 2023,
       "make": "Hyundai",
-      "model": "Kona 2.0L Preferred FWD",
+      "model": "Kona",
       "condition": "used"
     },
     {
@@ -672,6 +706,7 @@
       "vin": "KM8JBCAEXPU249575",
       "stock": "FP49575",
       "color": "White",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/2c128b68d839.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2023/hyundai/tucson/duncan/bc/70726740/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2023/hyundai/tucson/duncan/bc/70726740/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -681,7 +716,7 @@
       "odometer_km": 29258,
       "year": 2023,
       "make": "Hyundai",
-      "model": "Tucson Essential AWD",
+      "model": "Tucson",
       "condition": "used"
     },
     {
@@ -689,6 +724,7 @@
       "vin": "KMHRC8A32PU257360",
       "stock": "FP57360",
       "color": "Red",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/b8e862bbe4c6.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2023/hyundai/venue/duncan/bc/71389662/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2023/hyundai/venue/duncan/bc/71389662/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -698,7 +734,7 @@
       "odometer_km": 52115,
       "year": 2023,
       "make": "Hyundai",
-      "model": "Venue Preferred",
+      "model": "Venue",
       "condition": "used"
     },
     {
@@ -706,6 +742,7 @@
       "vin": "1C4PJMMB6PD113453",
       "stock": "F23CH34",
       "color": "Black",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/3e15eedbebbe.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2023/jeep/cherokee/duncan/bc/64366587/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2023/jeep/cherokee/duncan/bc/64366587/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -715,7 +752,7 @@
       "odometer_km": 52250,
       "year": 2023,
       "make": "Jeep",
-      "model": "Cherokee Altitude",
+      "model": "Cherokee",
       "condition": "used"
     },
     {
@@ -723,6 +760,7 @@
       "vin": "1C4RJYB65P8788578",
       "stock": "F23GC85",
       "color": "Black",
+      "trim": "4xe Dual Pane Sunroof",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/b66327e46b7d.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2023/jeep/grand-cherokee-4xe/duncan/bc/65285625/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2023/jeep/grand-cherokee-4xe/duncan/bc/65285625/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -732,7 +770,7 @@
       "odometer_km": 30137,
       "year": 2023,
       "make": "Jeep",
-      "model": "Grand Cherokee 4xe Dual Pane Sunroof, Remote Engine Start",
+      "model": "Grand Cherokee",
       "condition": "used"
     },
     {
@@ -740,6 +778,7 @@
       "vin": "1C4HJXEG8PW574173",
       "stock": "F26WR32",
       "color": "Silver",
+      "trim": "Unlimited Sahara 4 Door",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/75c1f0131553.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2023/jeep/wrangler-unlimited/duncan/bc/70908600/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2023/jeep/wrangler-unlimited/duncan/bc/70908600/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -749,7 +788,7 @@
       "odometer_km": 57501,
       "year": 2023,
       "make": "Jeep",
-      "model": "Wrangler Unlimited Sahara 4 Door 4x4",
+      "model": "Wrangler",
       "condition": "used"
     },
     {
@@ -757,6 +796,7 @@
       "vin": "58AB21B11PU013779",
       "stock": "FP13779",
       "color": "Grey",
+      "trim": "ES 300h",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/4043fc5491f3.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2023/lexus/es/duncan/bc/70176023/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2023/lexus/es/duncan/bc/70176023/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -766,7 +806,7 @@
       "odometer_km": 87855,
       "year": 2023,
       "make": "Lexus",
-      "model": "ES ES 300h",
+      "model": "ES",
       "condition": "used"
     },
     {
@@ -774,6 +814,7 @@
       "vin": "JM3KFBBM8P0140737",
       "stock": "FP40737",
       "color": "Red",
+      "trim": "GX",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/f218d5b73e77.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2023/mazda/cx-5/duncan/bc/70687853/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2023/mazda/cx-5/duncan/bc/70687853/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -783,7 +824,7 @@
       "odometer_km": 59220,
       "year": 2023,
       "make": "Mazda",
-      "model": "CX-5 GX Adaptive Cruise Control, Heated Front Seats, Backup Camera, Blind Spot Monitor, Bluetooth Connect",
+      "model": "CX-5",
       "condition": "used"
     },
     {
@@ -791,6 +832,7 @@
       "vin": "W1N0J8EBXPG159124",
       "stock": "FP59124",
       "color": "Black",
+      "trim": "GLC 300 4MATIC Coupe",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/052deb4e0e81.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2023/mercedes-benz/glc-coupe/duncan/bc/70977592/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2023/mercedes-benz/glc-coupe/duncan/bc/70977592/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -800,7 +842,7 @@
       "odometer_km": 60739,
       "year": 2023,
       "make": "Mercedes-Benz",
-      "model": "GLC Coupe GLC 300 4MATIC Coupe",
+      "model": "GLC",
       "condition": "used"
     },
     {
@@ -808,6 +850,7 @@
       "vin": "JA4ATVAA4PZ601816",
       "stock": "FP01816",
       "color": "Black",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/58014ee462d2.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2023/mitsubishi/eclipse-cross/duncan/bc/71156347/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2023/mitsubishi/eclipse-cross/duncan/bc/71156347/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -817,7 +860,7 @@
       "odometer_km": 38862,
       "year": 2023,
       "make": "Mitsubishi",
-      "model": "Eclipse Cross SE",
+      "model": "Eclipse Cross",
       "condition": "used"
     },
     {
@@ -825,6 +868,7 @@
       "vin": "3VVAX7B22PM322929",
       "stock": "FP22929",
       "color": "Black",
+      "trim": "Trendline 4MOTION *Ltd Avail*",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/375619c20f86.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2023/volkswagen/taos/duncan/bc/70983131/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2023/volkswagen/taos/duncan/bc/70983131/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -834,7 +878,7 @@
       "odometer_km": 44173,
       "year": 2023,
       "make": "Volkswagen",
-      "model": "Taos Trendline 4MOTION *Ltd Avail*",
+      "model": "Taos",
       "condition": "used"
     },
     {
@@ -842,6 +886,7 @@
       "vin": "1GCPTBEK4R1256158",
       "stock": "FP56158",
       "color": "Black",
+      "trim": "Work Truck",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/fe4abd80e474.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/chevrolet/colorado/duncan/bc/70647282/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/chevrolet/colorado/duncan/bc/70647282/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -851,7 +896,7 @@
       "odometer_km": 19459,
       "year": 2024,
       "make": "Chevrolet",
-      "model": "Colorado 4WD Work Truck",
+      "model": "Colorado",
       "condition": "used"
     },
     {
@@ -859,6 +904,7 @@
       "vin": "1GCPTFEKXR1244281",
       "stock": "F26RA12",
       "color": "Black",
+      "trim": "ZR2",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/daaafff6735a.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/chevrolet/colorado/duncan/bc/71044130/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/chevrolet/colorado/duncan/bc/71044130/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -868,7 +914,7 @@
       "odometer_km": 37000,
       "year": 2024,
       "make": "Chevrolet",
-      "model": "Colorado 4WD Crew Cab ZR2",
+      "model": "Colorado",
       "condition": "used"
     },
     {
@@ -876,6 +922,7 @@
       "vin": "1G1ZD5ST1RF239222",
       "stock": "FP39222",
       "color": "Grey",
+      "trim": "Sdn 1LT",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/fa86effba00d.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/chevrolet/malibu-sedan/duncan/bc/70827359/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/chevrolet/malibu-sedan/duncan/bc/70827359/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -885,7 +932,7 @@
       "odometer_km": 53975,
       "year": 2024,
       "make": "Chevrolet",
-      "model": "Malibu Sedan 4dr Sdn 1LT",
+      "model": "Malibu",
       "condition": "used"
     },
     {
@@ -893,6 +940,7 @@
       "vin": "2C4RC1ZG3RR199472",
       "stock": "FP99472",
       "color": "Black",
+      "trim": "SXT",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/b7b720f5a0d3.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/chrysler/grand-caravan/duncan/bc/70977608/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/chrysler/grand-caravan/duncan/bc/70977608/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -902,7 +950,7 @@
       "odometer_km": 19832,
       "year": 2024,
       "make": "Chrysler",
-      "model": "Grand Caravan SXT",
+      "model": "Grand Caravan",
       "condition": "used"
     },
     {
@@ -910,6 +958,7 @@
       "vin": "2C4RC1ZGXRR199274",
       "stock": "F26DU25",
       "color": "White",
+      "trim": "SXT",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/c26caf5fdea1.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/chrysler/grand-caravan/duncan/bc/71299973/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/chrysler/grand-caravan/duncan/bc/71299973/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -919,7 +968,7 @@
       "odometer_km": 15391,
       "year": 2024,
       "make": "Chrysler",
-      "model": "Grand Caravan SXT",
+      "model": "Grand Caravan",
       "condition": "used"
     },
     {
@@ -927,6 +976,7 @@
       "vin": "1C4SDJCT9RC207202",
       "stock": "FP07202",
       "color": "Silver",
+      "trim": "R/T Plus",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/9a8144632b8a.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/dodge/durango/duncan/bc/70977596/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/dodge/durango/duncan/bc/70977596/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -936,7 +986,7 @@
       "odometer_km": 53717,
       "year": 2024,
       "make": "Dodge",
-      "model": "Durango R/T Plus AWD",
+      "model": "Durango",
       "condition": "used"
     },
     {
@@ -944,6 +994,7 @@
       "vin": "1C4RDJAG6RC241652",
       "stock": "FP41652",
       "color": "Silver",
+      "trim": "SXT",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/ffb3de578413.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/dodge/durango/duncan/bc/71158103/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/dodge/durango/duncan/bc/71158103/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -953,7 +1004,7 @@
       "odometer_km": 10556,
       "year": 2024,
       "make": "Dodge",
-      "model": "Durango SXT AWD",
+      "model": "Durango",
       "condition": "used"
     },
     {
@@ -961,6 +1012,7 @@
       "vin": "1FMEE9BP8RLA09350",
       "stock": "F26RA04",
       "color": "Grey",
+      "trim": "Badlands 4 Door",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/30a45c68c294.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/ford/bronco/duncan/bc/71112528/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/ford/bronco/duncan/bc/71112528/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -970,7 +1022,7 @@
       "odometer_km": 42709,
       "year": 2024,
       "make": "Ford",
-      "model": "Bronco Badlands 4 Door 4x4",
+      "model": "Bronco",
       "condition": "used"
     },
     {
@@ -978,6 +1030,7 @@
       "vin": "1FMJK2A87REA72209",
       "stock": "FP72209",
       "color": "Black",
+      "trim": "Max Limited Max",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/2d2c1728041e.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/ford/expedition-max/duncan/bc/69976871/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/ford/expedition-max/duncan/bc/69976871/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -987,7 +1040,7 @@
       "odometer_km": 49662,
       "year": 2024,
       "make": "Ford",
-      "model": "Expedition Max Limited Max 4x4",
+      "model": "Expedition",
       "condition": "used"
     },
     {
@@ -995,6 +1048,7 @@
       "vin": "1FMJK2A89REA71708",
       "stock": "FP71708",
       "color": "White",
+      "trim": "Max Limited Max",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/64f4f57095ee.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/ford/expedition-max/duncan/bc/71156346/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/ford/expedition-max/duncan/bc/71156346/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1004,7 +1058,7 @@
       "odometer_km": 51963,
       "year": 2024,
       "make": "Ford",
-      "model": "Expedition Max Limited Max 4x4",
+      "model": "Expedition",
       "condition": "used"
     },
     {
@@ -1012,6 +1066,7 @@
       "vin": "1FTBR2C84RKA31877",
       "stock": "FP31877",
       "color": "White",
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/409a57e21508.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/ford/transit-cargo-van/duncan/bc/70977600/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/ford/transit-cargo-van/duncan/bc/70977600/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1021,7 +1076,7 @@
       "odometer_km": 91278,
       "year": 2024,
       "make": "Ford",
-      "model": "Transit Cargo Van",
+      "model": "Transit Cargo",
       "condition": "used"
     },
     {
@@ -1029,6 +1084,7 @@
       "vin": "3GKALTEG8RL273615",
       "stock": "FP73615",
       "color": "White",
+      "trim": "SLE",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/1e7494e0029f.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/gmc/terrain/duncan/bc/70977603/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/gmc/terrain/duncan/bc/70977603/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1038,7 +1094,7 @@
       "odometer_km": 60846,
       "year": 2024,
       "make": "GMC",
-      "model": "Terrain SLE",
+      "model": "Terrain",
       "condition": "used"
     },
     {
@@ -1046,6 +1102,7 @@
       "vin": "KM8HBCAB6RU166295",
       "stock": "FP66295",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/76a3d45b4768.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/hyundai/kona/duncan/bc/69426795/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/hyundai/kona/duncan/bc/69426795/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1055,7 +1112,7 @@
       "odometer_km": 43499,
       "year": 2024,
       "make": "Hyundai",
-      "model": "Kona Preferred AWD",
+      "model": "Kona",
       "condition": "used"
     },
     {
@@ -1063,6 +1120,7 @@
       "vin": "KM8HBCAB4RU093329",
       "stock": "FP93329",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/f586f3f06016.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/hyundai/kona/duncan/bc/70379436/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/hyundai/kona/duncan/bc/70379436/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1072,7 +1130,7 @@
       "odometer_km": 42515,
       "year": 2024,
       "make": "Hyundai",
-      "model": "Kona Preferred",
+      "model": "Kona",
       "condition": "used"
     },
     {
@@ -1080,6 +1138,7 @@
       "vin": "5NMP5DGL2RH036034",
       "stock": "FP36034",
       "color": "Brown",
+      "trim": "Ultimate Calligraphy",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/52ec05b49006.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/hyundai/santa-fe/duncan/bc/69976865/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/hyundai/santa-fe/duncan/bc/69976865/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1089,7 +1148,7 @@
       "odometer_km": 22795,
       "year": 2024,
       "make": "Hyundai",
-      "model": "Santa Fe Ultimate Calligraphy AWD",
+      "model": "Santa Fe",
       "condition": "used"
     },
     {
@@ -1097,6 +1156,7 @@
       "vin": "3C4NJDAN0RT108977",
       "stock": "FP08977",
       "color": "Silver",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/440b731af2f0.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/jeep/compass/duncan/bc/70176017/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/jeep/compass/duncan/bc/70176017/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1106,7 +1166,7 @@
       "odometer_km": 1591,
       "year": 2024,
       "make": "Jeep",
-      "model": "Compass Sport 4x4",
+      "model": "Compass",
       "condition": "used"
     },
     {
@@ -1114,6 +1174,7 @@
       "vin": "3C4NJDAN5RT593617",
       "stock": "FP93617",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/b9fdbaa56c99.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/jeep/compass/duncan/bc/70977599/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/jeep/compass/duncan/bc/70977599/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1123,7 +1184,7 @@
       "odometer_km": 20958,
       "year": 2024,
       "make": "Jeep",
-      "model": "Compass Sport 4x4",
+      "model": "Compass",
       "condition": "used"
     },
     {
@@ -1131,6 +1192,7 @@
       "vin": "1C4RJHBG4RC248955",
       "stock": "F24GC89",
       "color": "Blue",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/c84745c14e8c.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/jeep/grand-cherokee/duncan/bc/63669620/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/jeep/grand-cherokee/duncan/bc/63669620/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1140,7 +1202,7 @@
       "odometer_km": 17746,
       "year": 2024,
       "make": "Jeep",
-      "model": "Grand Cherokee Limited",
+      "model": "Grand Cherokee",
       "condition": "used"
     },
     {
@@ -1148,6 +1210,7 @@
       "vin": "1C4RJHAG6RC236291",
       "stock": "FP36291",
       "color": "Black",
+      "trim": "Laredo Sport Utility",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/9cd733083848.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/jeep/grand-cherokee/duncan/bc/70977606/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/jeep/grand-cherokee/duncan/bc/70977606/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1157,7 +1220,7 @@
       "odometer_km": 30726,
       "year": 2024,
       "make": "Jeep",
-      "model": "Grand Cherokee Laredo 4x4 Sport Utility",
+      "model": "Grand Cherokee",
       "condition": "used"
     },
     {
@@ -1165,6 +1228,7 @@
       "vin": "JN8BT3BB6RW181264",
       "stock": "F26CP53",
       "color": "Grey",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/d7973fd3e70c.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/nissan/rogue/duncan/bc/70993052/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/nissan/rogue/duncan/bc/70993052/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1174,7 +1238,7 @@
       "odometer_km": 49089,
       "year": 2024,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
+      "model": "Rogue",
       "condition": "used"
     },
     {
@@ -1182,6 +1246,7 @@
       "vin": "1C6RR7KT4RS196885",
       "stock": "F24RA68",
       "color": "White",
+      "trim": "Tradesman",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/154fbba1cef2.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/ram/1500-classic/duncan/bc/65344642/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/ram/1500-classic/duncan/bc/65344642/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1191,7 +1256,7 @@
       "odometer_km": 73,
       "year": 2024,
       "make": "RAM",
-      "model": "1500 Classic Tradesman",
+      "model": "1500 Classic",
       "condition": "used"
     },
     {
@@ -1199,6 +1264,7 @@
       "vin": "1C6RR7KT7RS196721",
       "stock": "FP96721",
       "color": "Black",
+      "trim": "Tradesman 5'7 Box",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/f97d6a17753d.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/ram/1500-classic/duncan/bc/69906317/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/ram/1500-classic/duncan/bc/69906317/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1208,7 +1274,7 @@
       "odometer_km": 25999,
       "year": 2024,
       "make": "RAM",
-      "model": "1500 Classic Tradesman 4x4 Crew Cab 5'7 Box",
+      "model": "1500 Classic",
       "condition": "used"
     },
     {
@@ -1216,6 +1282,7 @@
       "vin": "1C6SRFGT3RN113613",
       "stock": "F26WR64",
       "color": "White",
+      "trim": "Tradesman 5'7 Box",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/e526ab21d66d.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/ram/1500/duncan/bc/71099919/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/ram/1500/duncan/bc/71099919/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1225,7 +1292,7 @@
       "odometer_km": 68040,
       "year": 2024,
       "make": "RAM",
-      "model": "1500 Tradesman 4x4 Crew Cab 5'7 Box",
+      "model": "1500",
       "condition": "used"
     },
     {
@@ -1233,6 +1300,7 @@
       "vin": "2T3BWRFV0RW198280",
       "stock": "FP98280",
       "color": "Black",
+      "trim": "LE",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/281fe9d17311.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2024/toyota/rav4-hybrid/duncan/bc/70758152/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2024/toyota/rav4-hybrid/duncan/bc/70758152/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1242,7 +1310,7 @@
       "odometer_km": 71532,
       "year": 2024,
       "make": "Toyota",
-      "model": "RAV4 Hybrid Hybrid LE AWD",
+      "model": "RAV4 Hybrid Hybrid",
       "condition": "used"
     },
     {
@@ -1250,6 +1318,7 @@
       "vin": "3GCUKDEDXSG216922",
       "stock": "FP16922",
       "color": "Grey",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/c3b68f8c0b64.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2025/chevrolet/silverado-1500/duncan/bc/70420389/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2025/chevrolet/silverado-1500/duncan/bc/70420389/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1259,7 +1328,7 @@
       "odometer_km": 67812,
       "year": 2025,
       "make": "Chevrolet",
-      "model": "Silverado 1500 LT",
+      "model": "Silverado 1500",
       "condition": "used"
     },
     {
@@ -1267,6 +1336,7 @@
       "vin": "2C4RC1ZG4SR605782",
       "stock": "F26DU62",
       "color": "Black",
+      "trim": "SXT",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/56256bbebd45.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2025/chrysler/grand-caravan/duncan/bc/70603683/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2025/chrysler/grand-caravan/duncan/bc/70603683/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1276,7 +1346,7 @@
       "odometer_km": 16589,
       "year": 2025,
       "make": "Chrysler",
-      "model": "Grand Caravan SXT",
+      "model": "Grand Caravan",
       "condition": "used"
     },
     {
@@ -1284,6 +1354,7 @@
       "vin": "KMHRB8A36SU373365",
       "stock": "FP73365",
       "color": "Silver",
+      "trim": "Essential IVT",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/fcc2d960a5fb.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2025/hyundai/venue/duncan/bc/70709447/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2025/hyundai/venue/duncan/bc/70709447/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1293,7 +1364,7 @@
       "odometer_km": 22632,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Venue Essential IVT",
+      "model": "Venue",
       "condition": "used"
     },
     {
@@ -1301,6 +1372,7 @@
       "vin": "3C4NJDBN5ST566065",
       "stock": "F25CP60",
       "color": "Red",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/5d1b5ebebfee.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2025/jeep/compass/duncan/bc/65117949/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2025/jeep/compass/duncan/bc/65117949/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1310,7 +1382,7 @@
       "odometer_km": 8706,
       "year": 2025,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "used"
     },
     {
@@ -1318,6 +1390,7 @@
       "vin": "3C4NJDAN1ST538068",
       "stock": "FP38068",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/e58e0e3b41b2.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2025/jeep/compass/duncan/bc/71156345/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2025/jeep/compass/duncan/bc/71156345/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1327,7 +1400,7 @@
       "odometer_km": 11381,
       "year": 2025,
       "make": "Jeep",
-      "model": "Compass Sport 4x4",
+      "model": "Compass",
       "condition": "used"
     },
     {
@@ -1335,6 +1408,7 @@
       "vin": "1C6RJTBG4SL501160",
       "stock": "F25GL11",
       "color": "Black",
+      "trim": "Rubicon",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/566e37e872c0.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2025/jeep/gladiator/duncan/bc/65344640/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2025/jeep/gladiator/duncan/bc/65344640/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1344,7 +1418,7 @@
       "odometer_km": 16243,
       "year": 2025,
       "make": "Jeep",
-      "model": "Gladiator Rubicon",
+      "model": "Gladiator",
       "condition": "used"
     },
     {
@@ -1352,6 +1426,7 @@
       "vin": "1C4RJHAG3SC322051",
       "stock": "F25GC20",
       "color": "Silver",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/c6f6da9ee841.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2025/jeep/grand-cherokee/duncan/bc/69457692/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2025/jeep/grand-cherokee/duncan/bc/69457692/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1361,7 +1436,7 @@
       "odometer_km": 24,
       "year": 2025,
       "make": "Jeep",
-      "model": "Grand Cherokee Altitude",
+      "model": "Grand Cherokee",
       "condition": "used"
     },
     {
@@ -1369,6 +1444,7 @@
       "vin": "1C4PJXDGXSW554691",
       "stock": "F25WR46",
       "color": "Green",
+      "trim": "Sport S",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/1581b23d86c5.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2025/jeep/wrangler/duncan/bc/65256609/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2025/jeep/wrangler/duncan/bc/65256609/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1378,7 +1454,7 @@
       "odometer_km": 153,
       "year": 2025,
       "make": "Jeep",
-      "model": "Wrangler Sport S",
+      "model": "Wrangler",
       "condition": "used"
     },
     {
@@ -1386,6 +1462,7 @@
       "vin": "1C4PJXCG8SW570826",
       "stock": "FP70826",
       "color": "Grey",
+      "trim": "Rubicon X 2 Door",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/1ad8e9319ee4.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2025/jeep/wrangler/duncan/bc/70977609/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2025/jeep/wrangler/duncan/bc/70977609/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1395,7 +1472,7 @@
       "odometer_km": 8963,
       "year": 2025,
       "make": "Jeep",
-      "model": "Wrangler Rubicon X 2 Door 4x4",
+      "model": "Wrangler",
       "condition": "used"
     },
     {
@@ -1403,6 +1480,7 @@
       "vin": "3N1CP5CV0SL476710",
       "stock": "FP76710",
       "color": "White",
+      "trim": "Play SV",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/053299d39869.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2025/nissan/kicks-play/duncan/bc/71374722/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2025/nissan/kicks-play/duncan/bc/71374722/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1412,7 +1490,7 @@
       "odometer_km": 46854,
       "year": 2025,
       "make": "Nissan",
-      "model": "Kicks Play SV",
+      "model": "Kicks",
       "condition": "used"
     },
     {
@@ -1420,6 +1498,7 @@
       "vin": "3N1CP5CV1SL472018",
       "stock": "FP72018",
       "color": "White",
+      "trim": "Play SV",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/f1ce0dacffd0.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2025/nissan/kicks-play/duncan/bc/71374723/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2025/nissan/kicks-play/duncan/bc/71374723/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1429,7 +1508,7 @@
       "odometer_km": 44019,
       "year": 2025,
       "make": "Nissan",
-      "model": "Kicks Play SV",
+      "model": "Kicks",
       "condition": "used"
     },
     {
@@ -1437,6 +1516,7 @@
       "vin": "3N8AP6CA5SL308055",
       "stock": "FP08055",
       "color": "Red",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/ea467a427b25.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2025/nissan/kicks/duncan/bc/70180303/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2025/nissan/kicks/duncan/bc/70180303/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1446,7 +1526,7 @@
       "odometer_km": 69360,
       "year": 2025,
       "make": "Nissan",
-      "model": "Kicks SV",
+      "model": "Kicks",
       "condition": "used"
     },
     {
@@ -1454,6 +1534,7 @@
       "vin": "JN8BT3BB0SW159203",
       "stock": "FP59203",
       "color": "Black",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/b376169ad68a.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2025/nissan/rogue/duncan/bc/70307235/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2025/nissan/rogue/duncan/bc/70307235/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1463,7 +1544,7 @@
       "odometer_km": 46130,
       "year": 2025,
       "make": "Nissan",
-      "model": "Rogue SV Moonroof",
+      "model": "Rogue",
       "condition": "used"
     },
     {
@@ -1471,6 +1552,7 @@
       "vin": "1C6SRFVP3SN619177",
       "stock": "F25RA91",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/99636a78037b.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2025/ram/1500/duncan/bc/65983442/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2025/ram/1500/duncan/bc/65983442/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1480,7 +1562,7 @@
       "odometer_km": 11575,
       "year": 2025,
       "make": "RAM",
-      "model": "1500 Sport",
+      "model": "1500",
       "condition": "used"
     },
     {
@@ -1488,6 +1570,7 @@
       "vin": "1C6SRFNP4SN686130",
       "stock": "FP86130",
       "color": "Red",
+      "trim": "Tradesman 6'4 Box",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/73352d23001e.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2025/ram/1500/duncan/bc/70977614/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2025/ram/1500/duncan/bc/70977614/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1497,7 +1580,7 @@
       "odometer_km": 54,
       "year": 2025,
       "make": "RAM",
-      "model": "1500 Tradesman 4x4 Crew Cab 6'4 Box",
+      "model": "1500",
       "condition": "used"
     },
     {
@@ -1505,6 +1588,7 @@
       "vin": "2T3D1RFV1SW516601",
       "stock": "FP16601",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/8e22e7980d06.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2025/toyota/rav4/duncan/bc/71033848/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2025/toyota/rav4/duncan/bc/71033848/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1514,7 +1598,7 @@
       "odometer_km": 20182,
       "year": 2025,
       "make": "Toyota",
-      "model": "RAV4 Limited AWD",
+      "model": "RAV4",
       "condition": "used"
     },
     {
@@ -1522,6 +1606,7 @@
       "vin": "3GCUKDED3TG207951",
       "stock": "FP07951",
       "color": "White",
+      "trim": "157 LT",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/d0afb9df224e.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/chevrolet/silverado-1500/duncan/bc/71294241/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/chevrolet/silverado-1500/duncan/bc/71294241/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1531,7 +1616,7 @@
       "odometer_km": 15789,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 1500 4WD Crew Cab 157 LT",
+      "model": "Silverado 1500",
       "condition": "used"
     },
     {
@@ -1539,6 +1624,7 @@
       "vin": "2GC4KUEYXT1121189",
       "stock": "FP21189",
       "color": "White",
+      "trim": "LTZ",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/ca8300d73ba4.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/chevrolet/silverado-3500/duncan/bc/71357300/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/chevrolet/silverado-3500/duncan/bc/71357300/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1548,7 +1634,7 @@
       "odometer_km": 12911,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 3500 LTZ",
+      "model": "Silverado 3500",
       "condition": "used"
     },
     {
@@ -1572,6 +1658,7 @@
       "vin": "2C3CDAMP5TR245986",
       "stock": "F26CR59",
       "color": "Black",
+      "trim": "Scat Pack Plus",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/4920907866d7.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/dodge/charger/duncan/bc/69522939/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/dodge/charger/duncan/bc/69522939/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1581,7 +1668,7 @@
       "odometer_km": 233,
       "year": 2026,
       "make": "Dodge",
-      "model": "Charger Scat Pack Plus",
+      "model": "Charger",
       "condition": "new"
     },
     {
@@ -1589,6 +1676,7 @@
       "vin": "1C4RDJDG6TC194240",
       "stock": "F26DU42",
       "color": "Black",
+      "trim": "GT Plus",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/929d514997d1.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/dodge/durango/duncan/bc/68975657/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/dodge/durango/duncan/bc/68975657/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1598,7 +1686,7 @@
       "odometer_km": 153,
       "year": 2026,
       "make": "Dodge",
-      "model": "Durango GT Plus",
+      "model": "Durango",
       "condition": "new"
     },
     {
@@ -1606,6 +1694,7 @@
       "vin": "1C4RDJDG2TC234832",
       "stock": "F26DU48",
       "color": "Grey",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/72937afa6c93.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/dodge/durango/duncan/bc/69789075/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/dodge/durango/duncan/bc/69789075/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1615,7 +1704,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Dodge",
-      "model": "Durango GT",
+      "model": "Durango",
       "condition": "new"
     },
     {
@@ -1623,6 +1712,7 @@
       "vin": "1C4RDJDG1TC234840",
       "stock": "F26DU48",
       "color": "White",
+      "trim": "GT Plus",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e2b853967af3.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/dodge/durango/duncan/bc/69851275/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/dodge/durango/duncan/bc/69851275/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1632,7 +1722,7 @@
       "odometer_km": 28,
       "year": 2026,
       "make": "Dodge",
-      "model": "Durango GT Plus",
+      "model": "Durango",
       "condition": "new"
     },
     {
@@ -1640,6 +1730,7 @@
       "vin": "1C4RDJDG1TC255994",
       "stock": "F26DU59",
       "color": "Blue",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/0f031087504f.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/dodge/durango/duncan/bc/69920002/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/dodge/durango/duncan/bc/69920002/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1649,7 +1740,7 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Dodge",
-      "model": "Durango GT",
+      "model": "Durango",
       "condition": "new"
     },
     {
@@ -1657,6 +1748,7 @@
       "vin": "1C4RDJDG6TC255456",
       "stock": "F26DU54",
       "color": "Red",
+      "trim": "GT Plus",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e33cb2cb23f9.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/dodge/durango/duncan/bc/70256167/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/dodge/durango/duncan/bc/70256167/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1666,7 +1758,7 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "Dodge",
-      "model": "Durango GT Plus",
+      "model": "Durango",
       "condition": "new"
     },
     {
@@ -1674,6 +1766,7 @@
       "vin": "1C4RDJDG7TC267048",
       "stock": "F26DU70",
       "color": "Grey",
+      "trim": "GT Plus",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/67cd091a6513.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/dodge/durango/duncan/bc/70319890/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/dodge/durango/duncan/bc/70319890/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1683,7 +1776,7 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Dodge",
-      "model": "Durango GT Plus",
+      "model": "Durango",
       "condition": "new"
     },
     {
@@ -1691,6 +1784,7 @@
       "vin": "1C4RDJDG4TC255455",
       "stock": "F26DU54",
       "color": "Blue",
+      "trim": "GT Plus",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/790500df69b0.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/dodge/durango/duncan/bc/70374876/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/dodge/durango/duncan/bc/70374876/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1700,7 +1794,7 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Dodge",
-      "model": "Durango GT Plus",
+      "model": "Durango",
       "condition": "new"
     },
     {
@@ -1708,6 +1802,7 @@
       "vin": "1C4RDJDG9TC273014",
       "stock": "F26DU30",
       "color": "Grey",
+      "trim": "GT Plus",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/23fdb711c745.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/dodge/durango/duncan/bc/70472895/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/dodge/durango/duncan/bc/70472895/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1717,7 +1812,7 @@
       "odometer_km": 19,
       "year": 2026,
       "make": "Dodge",
-      "model": "Durango GT Plus",
+      "model": "Durango",
       "condition": "new"
     },
     {
@@ -1725,6 +1820,7 @@
       "vin": "1C4RDJDG0TC273015",
       "stock": "F26DU30",
       "color": "Grey",
+      "trim": "GT Plus",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/da3b12efc774.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/dodge/durango/duncan/bc/70472900/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/dodge/durango/duncan/bc/70472900/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1734,7 +1830,7 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Dodge",
-      "model": "Durango GT Plus",
+      "model": "Durango",
       "condition": "new"
     },
     {
@@ -1742,6 +1838,7 @@
       "vin": "1C4RDJDG1TC288431",
       "stock": "F26DU84",
       "color": "Grey",
+      "trim": "GT Plus",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/0042c7260017.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/dodge/durango/duncan/bc/70548887/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/dodge/durango/duncan/bc/70548887/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1751,7 +1848,7 @@
       "odometer_km": 20,
       "year": 2026,
       "make": "Dodge",
-      "model": "Durango GT Plus",
+      "model": "Durango",
       "condition": "new"
     },
     {
@@ -1775,6 +1872,7 @@
       "vin": "3C4NJDANXTT156168",
       "stock": "F26CP61",
       "color": "Blue",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/f35feae040d6.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/67773347/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/67773347/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1784,7 +1882,7 @@
       "odometer_km": 3548,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport",
+      "model": "Compass",
       "condition": "used"
     },
     {
@@ -1792,6 +1890,7 @@
       "vin": "3C4NJDAN0TT153828",
       "stock": "F26CP38",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/2199b595c68e.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/67773350/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/67773350/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1801,7 +1900,7 @@
       "odometer_km": 4548,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport",
+      "model": "Compass",
       "condition": "used"
     },
     {
@@ -1809,6 +1908,7 @@
       "vin": "3C4NJDBNXTT153401",
       "stock": "F26CP34",
       "color": "Blue",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/757e19568fbc.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/67773360/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/67773360/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1818,7 +1918,7 @@
       "odometer_km": 31,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "used"
     },
     {
@@ -1826,6 +1926,7 @@
       "vin": "3C4NJDAN2TT211518",
       "stock": "F26CP15",
       "color": "Silver",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/3326f4f656d3.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/69107571/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/69107571/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1835,7 +1936,7 @@
       "odometer_km": 60,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport",
+      "model": "Compass",
       "condition": "used"
     },
     {
@@ -1843,6 +1944,7 @@
       "vin": "3C4NJDAN8TT242997",
       "stock": "F26CP29",
       "color": "Silver",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/09487e72eed9.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/69840503/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/69840503/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1852,7 +1954,7 @@
       "odometer_km": 4738,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport",
+      "model": "Compass",
       "condition": "used"
     },
     {
@@ -1860,6 +1962,7 @@
       "vin": "3C4NJDAN3TT242986",
       "stock": "F26CP29",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/69f1cf5da3ea.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/69840541/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/69840541/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1869,7 +1972,7 @@
       "odometer_km": 6640,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport",
+      "model": "Compass",
       "condition": "used"
     },
     {
@@ -1877,6 +1980,7 @@
       "vin": "3C4PJMB26TT229761",
       "stock": "F26CH97",
       "color": "White",
+      "trim": "Laredo",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e766608defd4.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/cherokee/duncan/bc/69961185/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/cherokee/duncan/bc/69961185/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1886,7 +1990,7 @@
       "odometer_km": 36,
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredo",
+      "model": "Cherokee",
       "condition": "new"
     },
     {
@@ -1894,6 +1998,7 @@
       "vin": "3C4PJMB28TT229762",
       "stock": "F26CH97",
       "color": "Grey",
+      "trim": "Laredo",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/27cff1082061.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/cherokee/duncan/bc/69963284/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/cherokee/duncan/bc/69963284/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1903,7 +2008,7 @@
       "odometer_km": 106,
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredo",
+      "model": "Cherokee",
       "condition": "new"
     },
     {
@@ -1911,16 +2016,17 @@
       "vin": "3C4PJMB22TT229756",
       "stock": "F26CH97",
       "color": "Black",
+      "trim": "Laredo",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/c94cbc428870.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/cherokee/duncan/bc/70319889/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/cherokee/duncan/bc/70319889/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T18:57:08",
+      "last_verified": "2026-10-06T09:53:54",
       "price": 47885.0,
       "price_currency": "CAD",
       "odometer_km": 20,
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredo",
+      "model": "Cherokee",
       "condition": "new"
     },
     {
@@ -1928,16 +2034,17 @@
       "vin": "3C4PJMB25TT216063",
       "stock": "F26CH60",
       "color": "Black",
+      "trim": "Laredo",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/26a1dcf78d3f.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/cherokee/duncan/bc/70379274/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/cherokee/duncan/bc/70379274/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T18:57:15",
+      "last_verified": "2026-10-06T09:54:03",
       "price": 44888.0,
       "price_currency": "CAD",
       "odometer_km": 36,
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredo 4X4",
+      "model": "Cherokee",
       "condition": "new"
     },
     {
@@ -1945,16 +2052,17 @@
       "vin": "3C4NJDBN3TT153398",
       "stock": "F26CP33",
       "color": "White",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/6834147ccbdd.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/67773349/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/67773349/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T18:57:23",
+      "last_verified": "2026-10-06T09:54:13",
       "price": 41590.0,
       "price_currency": "CAD",
       "odometer_km": 27,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -1962,16 +2070,17 @@
       "vin": "3C4NJDBN5TT155394",
       "stock": "F26CP53",
       "color": "Black",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/22ac97f8087c.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/67773357/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/67773357/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T18:57:32",
+      "last_verified": "2026-10-06T09:54:21",
       "price": 45925.0,
       "price_currency": "CAD",
       "odometer_km": 21,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -1979,16 +2088,17 @@
       "vin": "3C4NJDBNXTT155391",
       "stock": "F26CP53",
       "color": "Blue",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/7b261e398c5e.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68126140/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68126140/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T18:57:41",
+      "last_verified": "2026-10-06T09:54:30",
       "price": 42980.0,
       "price_currency": "CAD",
       "odometer_km": 23,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -1996,16 +2106,17 @@
       "vin": "3C4NJDBN1TT155392",
       "stock": "F26CP53",
       "color": "Red",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/ebc0db09d63d.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68126141/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68126141/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T18:57:48",
+      "last_verified": "2026-10-06T09:54:39",
       "price": 42980.0,
       "price_currency": "CAD",
       "odometer_km": 21,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2013,16 +2124,17 @@
       "vin": "3C4NJDBN1TT153660",
       "stock": "F26CP36",
       "color": "Blue",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e31d6d40ed4e.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68126142/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68126142/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T18:57:58",
+      "last_verified": "2026-10-06T09:54:47",
       "price": 43975.0,
       "price_currency": "CAD",
       "odometer_km": 39,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2030,16 +2142,17 @@
       "vin": "3C4NJDBN6TT154786",
       "stock": "F26CP47",
       "color": "Blue",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/164e69e97bb6.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68198018/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68198018/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T18:58:07",
+      "last_verified": "2026-10-06T09:54:57",
       "price": 45825.0,
       "price_currency": "CAD",
       "odometer_km": 24,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2047,16 +2160,17 @@
       "vin": "3C4NJDBN3TT153403",
       "stock": "F26CP34",
       "color": "Silver",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/75c7b49f1039.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68198026/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68198026/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T18:58:17",
+      "last_verified": "2026-10-06T09:55:05",
       "price": 38690.0,
       "price_currency": "CAD",
       "odometer_km": 20,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2064,16 +2178,17 @@
       "vin": "3C4NJDBN0TT155299",
       "stock": "F26CP52",
       "color": "Silver",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/1190da8d537b.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68198029/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68198029/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T18:58:27",
+      "last_verified": "2026-10-06T09:55:13",
       "price": 43080.0,
       "price_currency": "CAD",
       "odometer_km": 23,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2081,16 +2196,17 @@
       "vin": "3C4NJDBN4TT154785",
       "stock": "F26CP47",
       "color": "Blue",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/ac4c47a18b7e.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68205012/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68205012/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T18:58:37",
+      "last_verified": "2026-10-06T09:55:23",
       "price": 45825.0,
       "price_currency": "CAD",
       "odometer_km": 20,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2098,16 +2214,17 @@
       "vin": "3C4NJDBN0TT153388",
       "stock": "F26CP33",
       "color": "Silver",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/64ff16108ecf.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68209396/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68209396/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T18:58:46",
+      "last_verified": "2026-10-06T09:55:32",
       "price": 39090.0,
       "price_currency": "CAD",
       "odometer_km": 25,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2115,16 +2232,17 @@
       "vin": "3C4NJDBN5TT153662",
       "stock": "F26CP36",
       "color": "Silver",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e40be647dd17.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68209397/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68209397/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T18:58:56",
+      "last_verified": "2026-10-06T09:55:40",
       "price": 46920.0,
       "price_currency": "CAD",
       "odometer_km": 22,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2132,16 +2250,17 @@
       "vin": "3C4NJDBN5TT155315",
       "stock": "F26CP53",
       "color": "Black",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/0859e3623310.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68304984/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68304984/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T18:59:04",
+      "last_verified": "2026-10-06T09:55:49",
       "price": 43080.0,
       "price_currency": "CAD",
       "odometer_km": 25,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2149,16 +2268,17 @@
       "vin": "3C4NJDBN7TT154778",
       "stock": "F26CP47",
       "color": "Black",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/1efb1fe7737e.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68304985/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68304985/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T18:59:13",
+      "last_verified": "2026-10-06T09:55:56",
       "price": 43080.0,
       "price_currency": "CAD",
       "odometer_km": 36,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2166,6 +2286,7 @@
       "vin": "3C4NJDBN2TT154767",
       "stock": "F26CP47",
       "color": "Blue",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/90b5b04918fa.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68304990/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68304990/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2175,7 +2296,7 @@
       "odometer_km": 26,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2183,6 +2304,7 @@
       "vin": "3C4NJDBN9TT155317",
       "stock": "F26CP53",
       "color": "Blue",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/072a1800535b.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68304993/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68304993/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2192,7 +2314,7 @@
       "odometer_km": 20,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2200,6 +2322,7 @@
       "vin": "3C4NJDBN9TT155298",
       "stock": "F26CP52",
       "color": "Blue",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/7698e06be01c.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68391843/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/68391843/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2209,7 +2332,7 @@
       "odometer_km": 32,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2217,6 +2340,7 @@
       "vin": "3C4NJDBN0TT202489",
       "stock": "F26CP24",
       "color": "White",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/b60ed9d8526f.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/69007267/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/69007267/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2226,7 +2350,7 @@
       "odometer_km": 20,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2234,6 +2358,7 @@
       "vin": "3C4NJDBN7TT202490",
       "stock": "F26CP24",
       "color": "Black",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/b28eebb1ec13.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/69162617/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/69162617/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2243,7 +2368,7 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2251,6 +2376,7 @@
       "vin": "3C4NJDBN0TT202492",
       "stock": "F26CP24",
       "color": "Silver",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/d53b503c27dd.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/69186559/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/69186559/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2260,7 +2386,7 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2268,6 +2394,7 @@
       "vin": "3C4NJDBN7TT208810",
       "stock": "F26CP88",
       "color": "Blue",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/5f8123840ca9.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/69186560/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/69186560/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2277,7 +2404,7 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2285,6 +2412,7 @@
       "vin": "3C4NJDBN0TT208812",
       "stock": "F26CP88",
       "color": "Blue",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/5053276080a3.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/69591828/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/69591828/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2294,7 +2422,7 @@
       "odometer_km": 33,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2302,6 +2430,7 @@
       "vin": "3C4NJDBN9TT208811",
       "stock": "F26CP88",
       "color": "Blue",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/7f702063b726.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/69678680/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/69678680/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2311,7 +2440,7 @@
       "odometer_km": 213,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2319,6 +2448,7 @@
       "vin": "3C4NJDAN7TT242991",
       "stock": "F26CP29",
       "color": "Blue",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/01a7a394665e.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/70256164/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/70256164/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2328,7 +2458,7 @@
       "odometer_km": 20,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2336,6 +2466,7 @@
       "vin": "3C4NJDAN6TT242996",
       "stock": "H6CP299",
       "color": "Red",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/8bce33da1e31.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/70279825/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/70279825/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2345,7 +2476,7 @@
       "odometer_km": 18,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport 4x4",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2353,6 +2484,7 @@
       "vin": "3C4NJDAN9TT242992",
       "stock": "F26CP29",
       "color": "Blue",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/ba811fb4d7e8.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/70306555/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/70306555/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2362,7 +2494,7 @@
       "odometer_km": 22,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2370,6 +2502,7 @@
       "vin": "3C4NJDAN0TT242993",
       "stock": "F26CP29",
       "color": "Blue",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/d178986e1a61.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/70319888/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/70319888/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2379,7 +2512,7 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2387,6 +2520,7 @@
       "vin": "3C4NJDAN2TT242994",
       "stock": "F26CP29",
       "color": "Red",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/428d67aafd3f.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/70319894/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/70319894/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2396,7 +2530,7 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2404,6 +2538,7 @@
       "vin": "3C4NJDAN4TT242995",
       "stock": "F26CP29",
       "color": "Red",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/10ccfb4e6296.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/70321497/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/compass/duncan/bc/70321497/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2413,7 +2548,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport",
+      "model": "Compass",
       "condition": "new"
     },
     {
@@ -2421,6 +2556,7 @@
       "vin": "1C6PJTAG0TL176565",
       "stock": "F26GL65",
       "color": "Grey",
+      "trim": "Sport S",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/d7fa9c84a2c1.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/gladiator/duncan/bc/69789077/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/gladiator/duncan/bc/69789077/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2430,7 +2566,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Jeep",
-      "model": "Gladiator Sport S",
+      "model": "Gladiator",
       "condition": "new"
     },
     {
@@ -2438,6 +2574,7 @@
       "vin": "1C6RJTEG2TL176571",
       "stock": "F26GL65",
       "color": "Black",
+      "trim": "Mojave X",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/deedc2f200f4.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/gladiator/duncan/bc/70028688/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/gladiator/duncan/bc/70028688/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2447,7 +2584,7 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Jeep",
-      "model": "Gladiator Mojave X",
+      "model": "Gladiator",
       "condition": "new"
     },
     {
@@ -2455,6 +2592,7 @@
       "vin": "1C6RJTEG1TL181096",
       "stock": "F26GL10",
       "color": "Grey",
+      "trim": "Mojave X",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/df84685dd00c.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/gladiator/duncan/bc/70319887/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/gladiator/duncan/bc/70319887/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2464,7 +2602,7 @@
       "odometer_km": 32,
       "year": 2026,
       "make": "Jeep",
-      "model": "Gladiator Mojave X",
+      "model": "Gladiator",
       "condition": "new"
     },
     {
@@ -2486,6 +2624,7 @@
       "vin": "1C4RJKAR3T8569962",
       "stock": "F26GC99",
       "color": "Black",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/5783a4dedeae.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/grand-cherokee-l/duncan/bc/69920003/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/grand-cherokee-l/duncan/bc/69920003/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2495,7 +2634,7 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee L Altitude",
+      "model": "Grand Cherokee L",
       "condition": "new"
     },
     {
@@ -2503,6 +2642,7 @@
       "vin": "1C4RJKAR1T8569961",
       "stock": "F26GC99",
       "color": "White",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/149207a3389f.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/grand-cherokee-l/duncan/bc/70064568/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/grand-cherokee-l/duncan/bc/70064568/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2512,7 +2652,7 @@
       "odometer_km": 20,
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee L Altitude",
+      "model": "Grand Cherokee L",
       "condition": "new"
     },
     {
@@ -2520,6 +2660,7 @@
       "vin": "1C4RJKARXT8569960",
       "stock": "F26GC99",
       "color": "Grey",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/c88d45ca65cc.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/grand-cherokee-l/duncan/bc/70321496/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/grand-cherokee-l/duncan/bc/70321496/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2529,7 +2670,7 @@
       "odometer_km": 122,
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee L Altitude",
+      "model": "Grand Cherokee L",
       "condition": "new"
     },
     {
@@ -2537,6 +2678,7 @@
       "vin": "1C4RJHAR9TC258276",
       "stock": "F26GC82",
       "color": "Grey",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/155fed23ad05.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/grand-cherokee/duncan/bc/70256169/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/grand-cherokee/duncan/bc/70256169/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2546,122 +2688,7 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee Altitude ! 0.99% APR/$2500 Cash Incentive",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Jeep Wrangler Unlimited Willys",
-      "vin": "1C4RJXDG1TW217451",
-      "stock": "F26WR74",
-      "color": "Green",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/1ff30eacf950.html",
-      "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler-unlimited/duncan/bc/69162616/?sale_class=new",
-      "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler-unlimited/duncan/bc/69162616/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:02:39",
-      "price": 68310.0,
-      "price_currency": "CAD",
-      "odometer_km": 27,
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler Unlimited Willys",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Jeep Wrangler Unlimited Sahara",
-      "vin": "1C4PJXEGXTW243813",
-      "stock": "F26WR38",
-      "color": "Grey",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/3661870a31d0.html",
-      "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler-unlimited/duncan/bc/69426959/?sale_class=new",
-      "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler-unlimited/duncan/bc/69426959/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:02:47",
-      "price": 64970.0,
-      "price_currency": "CAD",
-      "odometer_km": 25,
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler Unlimited Sahara",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Jeep Wrangler Unlimited Sahara",
-      "vin": "1C4PJXEG1TW243814",
-      "stock": "F26WR38",
-      "color": "Grey",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/195b741e2c65.html",
-      "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler-unlimited/duncan/bc/69568955/?sale_class=new",
-      "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler-unlimited/duncan/bc/69568955/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:02:57",
-      "price": 65570.0,
-      "price_currency": "CAD",
-      "odometer_km": 25,
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler Unlimited Sahara",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Jeep Wrangler Unlimited Sahara",
-      "vin": "1C4PJXEG7TW260441",
-      "stock": "F26WR04",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/8e6cd5d36d72.html",
-      "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler-unlimited/duncan/bc/69568958/?sale_class=new",
-      "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler-unlimited/duncan/bc/69568958/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:03:07",
-      "price": 64580.0,
-      "price_currency": "CAD",
-      "odometer_km": 25,
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler Unlimited Sahara",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Jeep Wrangler Unlimited Sahara",
-      "vin": "1C4PJXEG3TW243815",
-      "stock": "F26WR38",
-      "color": "Violet",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/a2b14083ce65.html",
-      "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler-unlimited/duncan/bc/69580409/?sale_class=new",
-      "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler-unlimited/duncan/bc/69580409/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:03:15",
-      "price": 65870.0,
-      "price_currency": "CAD",
-      "odometer_km": 25,
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler Unlimited Sahara",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Jeep Wrangler Unlimited Rubicon",
-      "vin": "1C4RJXFG5TW267363",
-      "stock": "F26WR73",
-      "color": "Blue",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/b9accc357d7d.html",
-      "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler-unlimited/duncan/bc/70064570/?sale_class=new",
-      "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler-unlimited/duncan/bc/70064570/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:03:25",
-      "price": 80450.0,
-      "price_currency": "CAD",
-      "odometer_km": 30,
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler Unlimited Rubicon",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Jeep Wrangler Unlimited",
-      "vin": "1C4PJXEG6TW267946",
-      "color": "Grey",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/8b7373b9b7b3.html",
-      "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler-unlimited/duncan/bc/71366233/?sale_class=new",
-      "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler-unlimited/duncan/bc/71366233/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:03:32",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler Unlimited",
+      "model": "Grand Cherokee",
       "condition": "new"
     },
     {
@@ -2669,6 +2696,7 @@
       "vin": "1C4PJXAN9TW162919",
       "stock": "F26WR29",
       "color": "Blue",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/ec949a67560f.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler/duncan/bc/68366179/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler/duncan/bc/68366179/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2678,7 +2706,115 @@
       "odometer_km": 196,
       "year": 2026,
       "make": "Jeep",
-      "model": "Wrangler Sport",
+      "model": "Wrangler",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Jeep Wrangler Willys",
+      "vin": "1C4RJXDG1TW217451",
+      "stock": "F26WR74",
+      "color": "Green",
+      "trim": "Willys",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/f6cb570deef3.html",
+      "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler/duncan/bc/69162616/?sale_class=new",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler/duncan/bc/69162616/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:53:00",
+      "price": 68310.0,
+      "price_currency": "CAD",
+      "odometer_km": 27,
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Jeep Wrangler Sahara",
+      "vin": "1C4PJXEGXTW243813",
+      "stock": "F26WR38",
+      "color": "Grey",
+      "trim": "Sahara",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/656b6813195f.html",
+      "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler/duncan/bc/69426959/?sale_class=new",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler/duncan/bc/69426959/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:53:08",
+      "price": 64970.0,
+      "price_currency": "CAD",
+      "odometer_km": 25,
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Jeep Wrangler Sahara",
+      "vin": "1C4PJXEG1TW243814",
+      "stock": "F26WR38",
+      "color": "Grey",
+      "trim": "Sahara",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/3507e23153a5.html",
+      "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler/duncan/bc/69568955/?sale_class=new",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler/duncan/bc/69568955/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:53:15",
+      "price": 65570.0,
+      "price_currency": "CAD",
+      "odometer_km": 25,
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Jeep Wrangler Sahara",
+      "vin": "1C4PJXEG7TW260441",
+      "stock": "F26WR04",
+      "color": "White",
+      "trim": "Sahara",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/623a56145204.html",
+      "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler/duncan/bc/69568958/?sale_class=new",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler/duncan/bc/69568958/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:53:23",
+      "price": 64580.0,
+      "price_currency": "CAD",
+      "odometer_km": 25,
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Jeep Wrangler Sahara",
+      "vin": "1C4PJXEG3TW243815",
+      "stock": "F26WR38",
+      "color": "Violet",
+      "trim": "Sahara",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/0673269c5fd7.html",
+      "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler/duncan/bc/69580409/?sale_class=new",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler/duncan/bc/69580409/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:53:31",
+      "price": 65870.0,
+      "price_currency": "CAD",
+      "odometer_km": 25,
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Jeep Wrangler Rubicon",
+      "vin": "1C4RJXFG5TW267363",
+      "stock": "F26WR73",
+      "color": "Blue",
+      "trim": "Rubicon",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/7ddba005c2d0.html",
+      "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler/duncan/bc/70064570/?sale_class=new",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler/duncan/bc/70064570/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:53:38",
+      "price": 79950.0,
+      "price_currency": "CAD",
+      "odometer_km": 30,
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
       "condition": "new"
     },
     {
@@ -2686,6 +2822,7 @@
       "vin": "1C4PJXAN0TW297805",
       "stock": "F26WR78",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e003357acaa8.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler/duncan/bc/70451325/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler/duncan/bc/70451325/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2695,7 +2832,22 @@
       "odometer_km": 19,
       "year": 2026,
       "make": "Jeep",
-      "model": "Wrangler Sport",
+      "model": "Wrangler",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Jeep Wrangler ",
+      "vin": "1C4PJXEG6TW267946",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/50e2045c687c.html",
+      "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler/duncan/bc/71366233/?sale_class=new",
+      "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler/duncan/bc/71366233/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:53:47",
+      "price": -10000.0,
+      "price_currency": "CAD",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
       "condition": "new"
     },
     {
@@ -2703,6 +2855,7 @@
       "vin": "1C6SRFLP3TN182298",
       "stock": "F26RA13",
       "color": "Red",
+      "trim": "Rebel 5'7 Box",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/62dbeb586533.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/71079469/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/71079469/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2712,7 +2865,7 @@
       "odometer_km": 3402,
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Rebel 4x4 Crew Cab 5'7 Box",
+      "model": "1500",
       "condition": "used"
     },
     {
@@ -2720,6 +2873,7 @@
       "vin": "1C6SRFLP7TN179078",
       "stock": "FP79078",
       "color": "Black",
+      "trim": "Rebel 5'7 Box",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/3df201a8c39c.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/71358240/?sale_class=used",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/71358240/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2729,7 +2883,7 @@
       "odometer_km": 4910,
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Rebel 4x4 Crew Cab 5'7 Box",
+      "model": "1500",
       "condition": "used"
     },
     {
@@ -2737,6 +2891,7 @@
       "vin": "1C6SRFLP1TN294565",
       "stock": "F26RA45",
       "color": "Black",
+      "trim": "Rebel",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/f1aef65eb4d4.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/69873887/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/69873887/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2746,7 +2901,7 @@
       "odometer_km": 218,
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Rebel",
+      "model": "1500",
       "condition": "new"
     },
     {
@@ -2754,6 +2909,7 @@
       "vin": "1C6SRFUP7TN236569",
       "stock": "F26RA65",
       "color": "Black",
+      "trim": "RHO",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/a22e4a8a5b6a.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70028689/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70028689/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2763,7 +2919,7 @@
       "odometer_km": 81,
       "year": 2026,
       "make": "RAM",
-      "model": "1500 RHO",
+      "model": "1500",
       "condition": "new"
     },
     {
@@ -2771,6 +2927,7 @@
       "vin": "3C6SRFGP1T4180215",
       "stock": "F26RA02",
       "color": "White",
+      "trim": "Warlock",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/61c7e61cc1d0.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70279823/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70279823/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2780,7 +2937,7 @@
       "odometer_km": 124,
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Warlock",
+      "model": "1500",
       "condition": "new"
     },
     {
@@ -2788,6 +2945,7 @@
       "vin": "3C6SRFGP3T4151895",
       "stock": "F26RA18",
       "color": "Black",
+      "trim": "Tradesman",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e9eaf838529e.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70306553/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70306553/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2797,7 +2955,7 @@
       "odometer_km": 22,
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Tradesman",
+      "model": "1500",
       "condition": "new"
     },
     {
@@ -2805,6 +2963,7 @@
       "vin": "3C6SRFGP7T4151897",
       "stock": "F26RA18",
       "color": "Grey",
+      "trim": "Tradesman",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/76a1ca6e8543.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70306554/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70306554/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2814,7 +2973,7 @@
       "odometer_km": 29,
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Tradesman",
+      "model": "1500",
       "condition": "new"
     },
     {
@@ -2822,6 +2981,7 @@
       "vin": "1C6SRFLT4TN397928",
       "stock": "F26RA79",
       "color": "Black",
+      "trim": "Rebel",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/b5a809568114.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70507520/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70507520/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2831,7 +2991,7 @@
       "odometer_km": 23,
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Rebel",
+      "model": "1500",
       "condition": "new"
     },
     {
@@ -2839,6 +2999,7 @@
       "vin": "1C6SRFGP7TN403041",
       "stock": "F26RA30",
       "color": "Blue",
+      "trim": "Express",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/2735cd36cbc4.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70548888/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70548888/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2848,7 +3009,7 @@
       "odometer_km": 21,
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Express",
+      "model": "1500",
       "condition": "new"
     },
     {
@@ -2856,6 +3017,7 @@
       "vin": "1C6SRFGP9TN403042",
       "stock": "F26RA30",
       "color": "Blue",
+      "trim": "Express",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/2e47cd5db24d.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70548890/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70548890/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2865,7 +3027,7 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Express",
+      "model": "1500",
       "condition": "new"
     },
     {
@@ -2873,6 +3035,7 @@
       "vin": "1C6SRFLT7TN400448",
       "stock": "F26RA04",
       "color": "Grey",
+      "trim": "Rebel",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/26fde356cc1e.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70563937/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70563937/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2882,7 +3045,7 @@
       "odometer_km": 22,
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Rebel",
+      "model": "1500",
       "condition": "new"
     },
     {
@@ -2890,6 +3053,7 @@
       "vin": "1C6SRFLT6TN397929",
       "stock": "F26RA79",
       "color": "Grey",
+      "trim": "Rebel",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/456390462797.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70563939/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70563939/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2899,7 +3063,7 @@
       "odometer_km": 23,
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Rebel",
+      "model": "1500",
       "condition": "new"
     },
     {
@@ -2907,6 +3071,7 @@
       "vin": "1C6SRFLP0TN412038",
       "stock": "F26RA20",
       "color": "Grey",
+      "trim": "Rebel",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/5555e6de90b3.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70666397/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70666397/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2916,7 +3081,7 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Rebel",
+      "model": "1500",
       "condition": "new"
     },
     {
@@ -2924,6 +3089,7 @@
       "vin": "3C6SRFVP9T4169238",
       "stock": "F26RA92",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/b1d52072f44c.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70927951/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70927951/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2933,7 +3099,7 @@
       "odometer_km": 26,
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Sport",
+      "model": "1500",
       "condition": "new"
     },
     {
@@ -2941,6 +3107,7 @@
       "vin": "3C6SRFVP7T4169237",
       "stock": "F26RA92",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/9d74805bf53a.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70927952/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70927952/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2950,7 +3117,7 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Sport",
+      "model": "1500",
       "condition": "new"
     },
     {
@@ -2958,6 +3125,7 @@
       "vin": "3C6SRFVP5T4169236",
       "stock": "F26RA92",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/feb46c550af9.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70993238/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70993238/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2967,7 +3135,7 @@
       "odometer_km": 79,
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Sport",
+      "model": "1500",
       "condition": "new"
     },
     {
@@ -2975,6 +3143,7 @@
       "vin": "1C6SRFMPXTN336620",
       "stock": "F26RA66",
       "color": "Blue",
+      "trim": "Big Horn",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/77c1bc40d462.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/71170585/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/71170585/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2984,7 +3153,7 @@
       "odometer_km": 28,
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Big Horn",
+      "model": "1500",
       "condition": "new"
     },
     {
@@ -2992,6 +3161,7 @@
       "vin": "3C6SRFGP5T4180217",
       "stock": "F26RA02",
       "color": "Grey",
+      "trim": "Warlock",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/0bb1b81c63d0.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/71204220/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/71204220/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3001,7 +3171,7 @@
       "odometer_km": 20,
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Warlock",
+      "model": "1500",
       "condition": "new"
     },
     {
@@ -3009,6 +3179,7 @@
       "vin": "3C6SRFFP0T4178019",
       "stock": "F26RA80",
       "color": "Grey",
+      "trim": "Big Horn",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/64f8ec84e227.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/71204222/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/71204222/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3018,7 +3189,7 @@
       "odometer_km": 20,
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Big Horn",
+      "model": "1500",
       "condition": "new"
     },
     {
@@ -3070,6 +3241,7 @@
       "vin": "3C63R3EL4TG254812",
       "stock": "F26RA48",
       "color": "Silver",
+      "trim": "Laramie",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/ab76e6f9fd18.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/3500/duncan/bc/69914431/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/3500/duncan/bc/69914431/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3079,24 +3251,7 @@
       "odometer_km": 84,
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Laramie",
-      "condition": "new"
-    },
-    {
-      "name": "2026 RAM 3500 Laramie",
-      "vin": "3C63R3EL9TG292083",
-      "stock": "F26RA20",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/1886e3580980.html",
-      "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/3500/duncan/bc/70117521/?sale_class=new",
-      "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/3500/duncan/bc/70117521/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:07:11",
-      "price": 114005.0,
-      "price_currency": "CAD",
-      "odometer_km": 70,
-      "year": 2026,
-      "make": "RAM",
-      "model": "3500 Laramie",
+      "model": "3500",
       "condition": "new"
     },
     {
@@ -3104,6 +3259,7 @@
       "vin": "3C63R3GL2TG295193",
       "stock": "F26RA51",
       "color": "Grey",
+      "trim": "Tradesman",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e764ced9ada3.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/3500/duncan/bc/70146741/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/3500/duncan/bc/70146741/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3113,7 +3269,7 @@
       "odometer_km": 22,
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Tradesman",
+      "model": "3500",
       "condition": "new"
     },
     {
@@ -3121,6 +3277,7 @@
       "vin": "3C63R3EL2TG314943",
       "stock": "F26RA49",
       "color": "Grey",
+      "trim": "Laramie",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/6668f6397271.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/3500/duncan/bc/70175724/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/3500/duncan/bc/70175724/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3130,7 +3287,7 @@
       "odometer_km": 22,
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Laramie",
+      "model": "3500",
       "condition": "new"
     },
     {
@@ -3138,6 +3295,7 @@
       "vin": "3C63R3DL6TG311691",
       "stock": "F26RA16",
       "color": "Black",
+      "trim": "Big Horn",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/570249279df0.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/3500/duncan/bc/70275908/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/3500/duncan/bc/70275908/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3147,7 +3305,7 @@
       "odometer_km": 22,
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Big Horn",
+      "model": "3500",
       "condition": "new"
     },
     {
@@ -3155,6 +3313,7 @@
       "vin": "3C63RRJLXTG285443",
       "stock": "F26RA54",
       "color": "Grey",
+      "trim": "Laramie",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/7833cf6117e8.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/3500/duncan/bc/70275909/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/3500/duncan/bc/70275909/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3164,7 +3323,7 @@
       "odometer_km": 28,
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Laramie",
+      "model": "3500",
       "condition": "new"
     },
     {
@@ -3172,6 +3331,7 @@
       "vin": "3C63R3CLXTG323389",
       "stock": "F26RA33",
       "color": "Blue",
+      "trim": "Tradesman",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/4072411353d0.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/3500/duncan/bc/70279824/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/3500/duncan/bc/70279824/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3181,7 +3341,7 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Tradesman",
+      "model": "3500",
       "condition": "new"
     },
     {
@@ -3189,6 +3349,7 @@
       "vin": "3C63R3CL8TG323391",
       "stock": "F26RA33",
       "color": "Grey",
+      "trim": "Tradesman",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/f2beee83f4d7.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/3500/duncan/bc/70319892/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/3500/duncan/bc/70319892/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3198,7 +3359,7 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Tradesman",
+      "model": "3500",
       "condition": "new"
     },
     {
@@ -3206,6 +3367,7 @@
       "vin": "3C63R3EL6TG346276",
       "stock": "F26RA62",
       "color": "White",
+      "trim": "Laramie",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/3b97acef0b92.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/3500/duncan/bc/70993240/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/3500/duncan/bc/70993240/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3215,7 +3377,7 @@
       "odometer_km": 35,
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Laramie",
+      "model": "3500",
       "condition": "new"
     },
     {
@@ -3223,6 +3385,7 @@
       "vin": "3C63R3EL4TG346275",
       "stock": "F26RA62",
       "color": "Grey",
+      "trim": "Laramie",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/04de6544bafb.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/3500/duncan/bc/71188645/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/3500/duncan/bc/71188645/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3232,7 +3395,7 @@
       "odometer_km": 20,
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Laramie",
+      "model": "3500",
       "condition": "new"
     },
     {
@@ -3240,6 +3403,7 @@
       "vin": "3C63R3EL0TG314942",
       "stock": "F26RA49",
       "color": "Black",
+      "trim": "Laramie",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/94762d004e7a.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/3500/duncan/bc/71204223/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/3500/duncan/bc/71204223/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3249,7 +3413,7 @@
       "odometer_km": 39,
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Laramie",
+      "model": "3500",
       "condition": "new"
     },
     {
@@ -3273,6 +3437,7 @@
       "vin": "2C4RC1ZG6VR551731",
       "stock": "F27GV17",
       "color": "Red",
+      "trim": "SXT",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/0a0ae2222990.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2027/chrysler/grand-caravan/duncan/bc/70374875/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2027/chrysler/grand-caravan/duncan/bc/70374875/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3282,7 +3447,7 @@
       "odometer_km": 18,
       "year": 2027,
       "make": "Chrysler",
-      "model": "Grand Caravan SXT",
+      "model": "Grand Caravan",
       "condition": "new"
     },
     {
@@ -3290,6 +3455,7 @@
       "vin": "2C4RC1ZG6VR554466",
       "stock": "F27GV44",
       "color": "Black",
+      "trim": "SXT",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/aef423fff23a.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2027/chrysler/grand-caravan/duncan/bc/70374877/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2027/chrysler/grand-caravan/duncan/bc/70374877/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3299,7 +3465,7 @@
       "odometer_km": 18,
       "year": 2027,
       "make": "Chrysler",
-      "model": "Grand Caravan SXT",
+      "model": "Grand Caravan",
       "condition": "new"
     },
     {
@@ -3359,6 +3525,7 @@
       "vin": "2C4RC1BG1VR558175",
       "stock": "F27PC81",
       "color": "Black",
+      "trim": "Select",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/7b07a415243b.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2027/chrysler/pacifica/duncan/bc/70472896/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2027/chrysler/pacifica/duncan/bc/70472896/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3368,7 +3535,7 @@
       "odometer_km": 18,
       "year": 2027,
       "make": "Chrysler",
-      "model": "Pacifica Select",
+      "model": "Pacifica",
       "condition": "new"
     },
     {
@@ -3428,6 +3595,7 @@
       "vin": "1C6SRFLP3VN568609",
       "stock": "F27RA86",
       "color": "Red",
+      "trim": "Rebel",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/9f6dbffc38f9.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2027/ram/1500/duncan/bc/71204221/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2027/ram/1500/duncan/bc/71204221/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3437,7 +3605,7 @@
       "odometer_km": 31,
       "year": 2027,
       "make": "RAM",
-      "model": "1500 Rebel",
+      "model": "1500",
       "condition": "new"
     },
     {
@@ -3445,6 +3613,7 @@
       "vin": "1C6SRFLP0VN568597",
       "stock": "F27RA85",
       "color": "Grey",
+      "trim": "Rebel",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/ee31ad11222f.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2027/ram/1500/duncan/bc/71266694/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2027/ram/1500/duncan/bc/71266694/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3454,7 +3623,7 @@
       "odometer_km": 20,
       "year": 2027,
       "make": "RAM",
-      "model": "1500 Rebel",
+      "model": "1500",
       "condition": "new"
     },
     {
