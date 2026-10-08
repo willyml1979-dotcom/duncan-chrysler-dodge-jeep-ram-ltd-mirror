@@ -1,6 +1,6 @@
 {
   "dealership": "Duncan Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-10-07T14:57:04",
+  "generated_at": "2026-10-08T14:36:41",
   "vehicle_count": 212,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -19,7 +19,9 @@
       "year": 2008,
       "make": "Audi",
       "model": "R8 Coupe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Santa Fe Sport AWD 4dr 2.0T Limited | Keyless entry | Bluetooth inegration | Heated seats | Memory seats |",
@@ -37,7 +39,9 @@
       "year": 2016,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2017 BMW X1 xDrive28i",
@@ -55,7 +59,9 @@
       "year": 2017,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Escape SE",
@@ -73,7 +79,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Expedition Limited 4WD | GPS Navigation!",
@@ -91,7 +99,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "Expedition",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2018 Jeep Compass Trailhawk 4x4 | GPS Navigation | Remote Start!",
@@ -109,7 +119,9 @@
       "year": 2018,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Compass North",
@@ -127,7 +139,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Grand Cherokee Altitude 4x4 | No Reported Accidents!",
@@ -145,7 +159,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2020 Chevrolet Trax AWD 4dr Premier | Heated Seats | Remote Start | Backup Camera | Blind Spot Monitor",
@@ -163,7 +179,9 @@
       "year": 2020,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2020 Dodge Durango GT AWD | Fully Loaded | Premium Leather!",
@@ -181,7 +199,9 @@
       "year": 2020,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2020 Ford F-350 Super Duty ",
@@ -199,7 +219,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "F-350",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2021 Ford Escape SE",
@@ -217,7 +239,9 @@
       "year": 2021,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2021 Ford Expedition XLT 4x4",
@@ -235,7 +259,9 @@
       "year": 2021,
       "make": "Ford",
       "model": "Expedition",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2021 Ford F 150 4x4|Locally Owned| Service Records!",
@@ -252,7 +278,9 @@
       "year": 2021,
       "make": "Ford",
       "model": "F 150 4x4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2021 Hyundai Kona Preferred AWD | No Reported Accidents | One Owner!",
@@ -270,7 +298,9 @@
       "year": 2021,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2021 Mercedes-Benz GLE GLE 450 4MATIC SUV | One Owner | No Accidents!",
@@ -288,7 +318,9 @@
       "year": 2021,
       "make": "Mercedes-Benz",
       "model": "GLE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Murano AWD SL | Premium Leather | Heated Seats!",
@@ -306,7 +338,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota Highlander XLE AWD",
@@ -324,7 +358,9 @@
       "year": 2021,
       "make": "Toyota",
       "model": "Highlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2022 Chevrolet Blazer RS AWD | No Reported Accidents | BC Vehicle | Service Records!",
@@ -342,7 +378,9 @@
       "year": 2022,
       "make": "Chevrolet",
       "model": "Blazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2022 Chevrolet Equinox RS AWD | Local BC Vehicle | Heated Seats!",
@@ -360,7 +398,9 @@
       "year": 2022,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 XLT 4WD SuperCrew 6.5' Box | No Reported Accidents | BC Vehicle!",
@@ -378,7 +418,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Grand Cherokee Limited 4x4 | Heated & Ventilated Seats!",
@@ -396,7 +438,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Wrangler Unlimited Rubicon|Backup Camera|Heated Steering Wheel|HD Radio|Bluetooth Integration!",
@@ -414,7 +458,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2022 Lincoln Aviator Reserve AWD | Leather | Heated Seats!",
@@ -432,7 +478,9 @@
       "year": 2022,
       "make": "Lincoln",
       "model": "Aviator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2022 Mitsubishi Mirage ES | FWD | Backup Camera | Rain-Sensing Windshield Wipers | Steering Wheel Audio Controls!",
@@ -450,7 +498,9 @@
       "year": 2022,
       "make": "Mitsubishi",
       "model": "Mirage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2022 Mitsubishi Mirage Backup Camera | Front-Wheel Drive | Steering Wheel Audio Controls | Air Conditioning!",
@@ -468,7 +518,9 @@
       "year": 2022,
       "make": "Mitsubishi",
       "model": "Mirage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 Classic Warlock 4x4 Crew Cab 5'7 Box | Dealer Serviced | Locally Owned BC Vehicle!",
@@ -486,7 +538,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 Rebel 4x4 Crew Cab 5'7 Box | One Owner | No Reported Accidents!",
@@ -504,7 +558,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 Sport 4x4 Crew Cab 5'7 Box | Dealer Serviced | HEMI V8 | Tech & Towing Ready!",
@@ -522,7 +578,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 Laramie 4x4 Crew Cab 5'7 Box| Advanced Technology & Everyday Versatility!",
@@ -540,7 +598,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 Limited Longhorn 4x4 Crew Cab 5'7 Box | WiFi hotspot | Keyless entry | Cruise control |",
@@ -558,7 +618,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 Laramie 4x4 Crew Cab 5'7 Box | Leather | Panoramic Sunroof | Heated Seats | Remote Start |",
@@ -576,7 +638,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Bronco Sport Big Bend 4x4",
@@ -594,7 +658,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F 150 ",
@@ -611,7 +677,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F 150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-350 Super Duty XLT 4WD / BACK UP CAMERA / LONGBOX!!",
@@ -629,7 +697,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-350",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Mustang Mach-E Premium AWD",
@@ -647,7 +717,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2023 GMC Acadia AWD 4dr AT4  | Heated Seats | Power Liftgate | Backup Camera | Blind Spot Monitor",
@@ -665,7 +737,9 @@
       "year": 2023,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Kona 2.0L Preferred FWD | Heated Seats | Heated Steering Wheel | Backup Camera | Blind Spot Monitor",
@@ -683,7 +757,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Santa Fe Ultimate Calligraphy",
@@ -701,7 +777,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Tucson Essential AWD | Heated Front Seats | Backup Camera | Bluetooth® Connectivity!",
@@ -719,7 +797,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Venue Preferred | BC Vehicle | Heated Seats!",
@@ -737,7 +817,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Cherokee Altitude",
@@ -755,7 +837,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Grand Cherokee 4xe Dual Pane Sunroof, Remote Engine Start",
@@ -773,7 +857,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Wrangler Sahara 4 Door 4x4",
@@ -791,7 +877,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2023 Lexus ES ES 300h | No Reported Accidents | One Owner!",
@@ -809,7 +897,9 @@
       "year": 2023,
       "make": "Lexus",
       "model": "ES",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-5 GX Adaptive Cruise Control, Heated Front Seats, Backup Camera, Blind Spot Monitor, Bluetooth Connect",
@@ -827,7 +917,9 @@
       "year": 2023,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2023 Mercedes-Benz GLC Coupe GLC 300 4MATIC Coupe | No Reported Accidents!",
@@ -845,7 +937,9 @@
       "year": 2023,
       "make": "Mercedes-Benz",
       "model": "GLC",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2023 Mitsubishi Eclipse Cross SE | One Owner | BC Vehicle | Low KM!",
@@ -863,7 +957,9 @@
       "year": 2023,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen Taos Trendline 4MOTION *Ltd Avail*",
@@ -881,7 +977,9 @@
       "year": 2023,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Colorado 4WD Work Truck|Advanced Safety Features, Backup Camera, Bluetooth Connectivity, Satellite Radio, Key",
@@ -899,7 +997,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Colorado 4WD Crew Cab ZR2 | Backup Camera | Heated Front Seats | Remote Starter | Bluetooth®",
@@ -917,7 +1017,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Malibu Sedan 4dr Sdn 1LT  | Heated Front Seats | Remote Starter | Backup Camera | Smart Device Integration!",
@@ -935,7 +1037,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Malibu",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 Chrysler Grand Caravan SXT | Heated Seats | Remote Start!",
@@ -953,7 +1057,9 @@
       "year": 2024,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 Chrysler Grand Caravan SXT",
@@ -971,7 +1077,9 @@
       "year": 2024,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Durango R/T Plus AWD | No Reported Accidents!",
@@ -989,7 +1097,9 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Durango SXT AWD | One Owner | No Reported Accidents!",
@@ -1007,7 +1117,9 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco Badlands 4 Door 4x4 | Convertible | Backup Camera | Bluetooth | Aluminum Wheels",
@@ -1025,7 +1137,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Expedition Max Limited Max 4x4 | No Accidents | BC Vehicle!",
@@ -1043,7 +1157,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Expedition",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Expedition Max Limited Max 4x4 | No Reported Accidents | BC Vehicle!",
@@ -1061,7 +1177,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Expedition",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Transit Cargo Van | 250 148 Med Rf 9070 GVWR AWD |  Back-Up Camera | Keyless Entry!",
@@ -1079,7 +1197,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Transit Cargo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Terrain SLE | No Accidents!! | Air Conditioning!!",
@@ -1097,7 +1217,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Kona Preferred AWD | No Reported Accidents | BC Vehicle!",
@@ -1115,7 +1237,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Kona Preferred| Adaptive Cruise Control | Heated Seats & Steering Wheel | Blind Spot Monitor!",
@@ -1133,7 +1257,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Santa Fe Ultimate Calligraphy AWD | One Owner | No Accidents!",
@@ -1151,7 +1277,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Compass Sport 4x4 | No Accidents | Locally Owned BC Vehicle | Dealer Serviced!",
@@ -1169,7 +1297,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Grand Cherokee Laredo 4x4 Sport Utility | One Owner | No Reported Accidents!",
@@ -1187,7 +1317,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue AWD SV Moonroof",
@@ -1205,7 +1337,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 Classic Tradesman",
@@ -1223,7 +1357,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 Classic Tradesman 4x4 Crew Cab 5'7 Box | One Owner | No Accidents!",
@@ -1241,7 +1377,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 Tradesman 4x4 Crew Cab 5'7 Box  | Backup Camera | Bluetooth | Cruise Control",
@@ -1259,7 +1397,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota RAV4 Hybrid Hybrid LE AWD|| Backup Camera | Heated Seats | Adaptive Cruise Control!",
@@ -1277,7 +1417,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "RAV4 Hybrid Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 LT|No Accidents|Locally owned!",
@@ -1295,7 +1437,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2025 Chrysler Grand Caravan SXT | Heated Seats | Power Liftgate!",
@@ -1313,7 +1457,9 @@
       "year": 2025,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Venue Essential IVT|Heated Front Seats | Backup Camera | Bluetooth® Connectivity!",
@@ -1331,7 +1477,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Compass North",
@@ -1349,7 +1497,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Compass Sport 4x4 | Locally Owned | Service Records!",
@@ -1367,7 +1517,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Gladiator Rubicon",
@@ -1385,7 +1537,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Grand Cherokee Altitude",
@@ -1403,7 +1557,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Wrangler Sport S",
@@ -1421,7 +1577,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Wrangler Rubicon X 2 Door 4x4 | Recon Package | Off-Road Plus Mode!",
@@ -1439,7 +1597,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks Play SV",
@@ -1457,7 +1617,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks Play SV",
@@ -1475,7 +1637,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks SV | Remote Start | Heated Seats!",
@@ -1493,7 +1657,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue SV Moonroof|No Accidents|Locally Owned!",
@@ -1511,7 +1677,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2025 RAM 1500 Sport",
@@ -1529,7 +1697,9 @@
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2025 RAM 1500 Tradesman 4x4 Crew Cab 6'4 Box | One Owner | No Reported Accidents!",
@@ -1547,7 +1717,9 @@
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota RAV4 Limited AWD",
@@ -1565,7 +1737,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 4WD Crew Cab 157 LT | Backup Camera | Bluetooth | Heated Seats | Aluminum Wheels",
@@ -1583,7 +1757,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 3500 LTZ",
@@ -1601,7 +1777,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Grand Caravan ",
@@ -1617,7 +1795,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Charger Scat Pack Plus",
@@ -1635,7 +1815,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango GT Plus",
@@ -1653,7 +1835,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango GT",
@@ -1671,7 +1855,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango GT Plus",
@@ -1689,7 +1875,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango GT",
@@ -1707,7 +1895,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango GT Plus",
@@ -1725,7 +1915,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango GT Plus",
@@ -1743,7 +1935,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango GT Plus",
@@ -1761,7 +1955,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango GT Plus",
@@ -1779,7 +1975,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango GT Plus",
@@ -1797,7 +1995,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango GT Plus",
@@ -1815,7 +2015,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango ",
@@ -1831,7 +2033,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport",
@@ -1849,7 +2053,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport",
@@ -1867,7 +2073,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -1885,7 +2093,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport",
@@ -1903,7 +2113,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport",
@@ -1921,7 +2133,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport",
@@ -1939,7 +2153,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredo",
@@ -1957,7 +2173,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredo",
@@ -1975,7 +2193,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredo",
@@ -1993,7 +2213,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredo 4X4 | Hybrid Efficiency | Adaptive Cruise C",
@@ -2011,7 +2233,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -2029,7 +2253,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -2047,7 +2273,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -2065,7 +2293,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -2083,7 +2313,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -2101,7 +2333,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -2119,7 +2353,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -2137,7 +2373,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -2155,7 +2393,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -2173,7 +2413,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -2191,7 +2433,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -2209,7 +2453,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -2227,7 +2473,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -2245,7 +2493,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -2263,7 +2513,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -2281,7 +2533,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -2299,7 +2553,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -2317,7 +2573,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -2335,7 +2593,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -2353,7 +2613,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -2371,7 +2633,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -2389,7 +2653,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North",
@@ -2407,7 +2673,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport",
@@ -2425,7 +2693,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport 4x4 | 0% APR/$2500 Cash Incentive!",
@@ -2443,7 +2713,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport",
@@ -2461,7 +2733,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport",
@@ -2479,7 +2753,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport",
@@ -2497,7 +2773,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport",
@@ -2515,7 +2793,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator Sport S",
@@ -2526,14 +2806,16 @@
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/d7fa9c84a2c1.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/gladiator/duncan/bc/69789077/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/gladiator/duncan/bc/69789077/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:01:34",
+      "last_verified": "2026-10-08T10:00:40",
       "price": 49888.0,
       "price_currency": "CAD",
       "odometer_km": 16,
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator Mojave X",
@@ -2544,14 +2826,16 @@
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/deedc2f200f4.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/gladiator/duncan/bc/70028688/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/gladiator/duncan/bc/70028688/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:01:41",
+      "last_verified": "2026-10-08T10:00:48",
       "price": 79680.0,
       "price_currency": "CAD",
       "odometer_km": 24,
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator Mojave X",
@@ -2562,14 +2846,16 @@
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/df84685dd00c.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/gladiator/duncan/bc/70319887/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/gladiator/duncan/bc/70319887/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:01:50",
+      "last_verified": "2026-10-08T10:00:57",
       "price": 80275.0,
       "price_currency": "CAD",
       "odometer_km": 32,
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator",
@@ -2579,11 +2865,13 @@
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/8b1a11c3be0b.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/gladiator/duncan/bc/71366243/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/gladiator/duncan/bc/71366243/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:01:58",
+      "last_verified": "2026-10-08T10:01:07",
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee L Altitude",
@@ -2594,14 +2882,16 @@
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/5783a4dedeae.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/grand-cherokee-l/duncan/bc/69920003/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/grand-cherokee-l/duncan/bc/69920003/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:02:07",
+      "last_verified": "2026-10-08T10:01:16",
       "price": 69475.0,
       "price_currency": "CAD",
-      "odometer_km": 25,
+      "odometer_km": 33,
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee L Altitude",
@@ -2612,14 +2902,16 @@
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/149207a3389f.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/grand-cherokee-l/duncan/bc/70064568/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/grand-cherokee-l/duncan/bc/70064568/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:02:14",
+      "last_verified": "2026-10-08T10:01:27",
       "price": 68880.0,
       "price_currency": "CAD",
-      "odometer_km": 20,
+      "odometer_km": 33,
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee L Altitude",
@@ -2630,14 +2922,16 @@
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/c88d45ca65cc.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/grand-cherokee-l/duncan/bc/70321496/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/grand-cherokee-l/duncan/bc/70321496/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:02:23",
+      "last_verified": "2026-10-08T10:01:36",
       "price": 69475.0,
       "price_currency": "CAD",
       "odometer_km": 122,
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee Altitude ! 0.99% APR/$2500 Cash Incentive",
@@ -2648,14 +2942,16 @@
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/155fed23ad05.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/grand-cherokee/duncan/bc/70256169/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/grand-cherokee/duncan/bc/70256169/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:02:32",
+      "last_verified": "2026-10-08T10:01:44",
       "price": 59888.0,
       "price_currency": "CAD",
       "odometer_km": 15,
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler Sport",
@@ -2666,14 +2962,16 @@
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/ec949a67560f.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler/duncan/bc/68366179/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler/duncan/bc/68366179/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:03:41",
-      "price": 45575.0,
+      "last_verified": "2026-10-08T10:01:54",
+      "price": 47075.0,
       "price_currency": "CAD",
       "odometer_km": 196,
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler Willys",
@@ -2691,7 +2989,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler Sahara",
@@ -2709,7 +3009,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler Sahara",
@@ -2727,7 +3029,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler Sahara",
@@ -2745,7 +3049,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler Sahara",
@@ -2763,7 +3069,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler Rubicon",
@@ -2781,7 +3089,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler Sport",
@@ -2792,14 +3102,16 @@
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e003357acaa8.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler/duncan/bc/70451325/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/jeep/wrangler/duncan/bc/70451325/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:03:50",
-      "price": 45085.0,
+      "last_verified": "2026-10-08T10:02:04",
+      "price": 46585.0,
       "price_currency": "CAD",
       "odometer_km": 19,
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -2814,7 +3126,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7 Box | Adaptive Cruise Control!",
@@ -2832,7 +3146,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7 Box | Ventilated And Heated Front Seats | Dual Wireless Charging!!!",
@@ -2850,7 +3166,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Rebel",
@@ -2861,14 +3179,16 @@
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/f1aef65eb4d4.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/69873887/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/69873887/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:04:00",
+      "last_verified": "2026-10-08T10:02:12",
       "price": 83660.0,
       "price_currency": "CAD",
       "odometer_km": 218,
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 RHO",
@@ -2879,14 +3199,16 @@
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/a22e4a8a5b6a.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70028689/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70028689/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:04:07",
+      "last_verified": "2026-10-08T10:02:20",
       "price": 116750.0,
       "price_currency": "CAD",
       "odometer_km": 81,
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Warlock",
@@ -2897,14 +3219,16 @@
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/61c7e61cc1d0.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70279823/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70279823/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:04:16",
+      "last_verified": "2026-10-08T10:02:28",
       "price": 67125.0,
       "price_currency": "CAD",
       "odometer_km": 124,
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Tradesman",
@@ -2915,14 +3239,16 @@
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e9eaf838529e.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70306553/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70306553/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:04:26",
-      "price": 57888.0,
+      "last_verified": "2026-10-08T10:02:37",
+      "price": 63470.0,
       "price_currency": "CAD",
       "odometer_km": 22,
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Tradesman",
@@ -2933,14 +3259,16 @@
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/76a1ca6e8543.html",
       "source_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70306554/?sale_class=new",
       "dealer_url": "https://www.duncandodge.ca/vehicles/2026/ram/1500/duncan/bc/70306554/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:04:33",
-      "price": 57888.0,
+      "last_verified": "2026-10-08T10:02:45",
+      "price": 63470.0,
       "price_currency": "CAD",
       "odometer_km": 29,
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Rebel",
@@ -2958,7 +3286,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Express",
@@ -2976,7 +3306,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Express",
@@ -2994,7 +3326,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Rebel",
@@ -3012,7 +3346,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Rebel",
@@ -3030,7 +3366,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Rebel",
@@ -3048,7 +3386,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Sport",
@@ -3066,7 +3406,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Sport",
@@ -3084,7 +3426,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Sport",
@@ -3102,7 +3446,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Big Horn",
@@ -3120,7 +3466,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Warlock",
@@ -3138,7 +3486,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Big Horn",
@@ -3156,7 +3506,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -3171,7 +3523,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500",
@@ -3185,7 +3539,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -3200,7 +3556,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Laramie",
@@ -3218,7 +3576,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Tradesman",
@@ -3236,7 +3596,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Laramie",
@@ -3254,7 +3616,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Big Horn",
@@ -3272,7 +3636,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Laramie",
@@ -3290,7 +3656,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Tradesman",
@@ -3308,7 +3676,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Tradesman",
@@ -3326,7 +3696,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Laramie",
@@ -3344,7 +3716,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Laramie",
@@ -3362,7 +3736,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Laramie",
@@ -3380,7 +3756,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -3396,7 +3774,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravan SXT",
@@ -3414,7 +3794,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravan SXT",
@@ -3432,7 +3814,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravan",
@@ -3445,7 +3829,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravan",
@@ -3458,7 +3844,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravan",
@@ -3471,7 +3859,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravan",
@@ -3484,7 +3874,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacifica Select",
@@ -3502,7 +3894,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneer",
@@ -3515,7 +3909,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Wagoneer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Wrangler",
@@ -3528,7 +3924,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Wrangler",
@@ -3541,7 +3939,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Wrangler",
@@ -3554,7 +3954,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 Rebel",
@@ -3572,7 +3974,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 Rebel",
@@ -3590,7 +3994,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500",
@@ -3603,7 +4009,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500",
@@ -3616,7 +4024,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500",
@@ -3629,7 +4039,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500",
@@ -3642,7 +4054,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500",
@@ -3655,7 +4069,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500",
@@ -3668,7 +4084,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 2500",
@@ -3681,7 +4099,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 2500",
@@ -3694,7 +4114,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 3500",
@@ -3707,7 +4129,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     }
   ]
 }
