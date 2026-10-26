@@ -1,7 +1,7 @@
 {
   "dealership": "Duncan Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-10-25T23:12:50",
-  "vehicle_count": 442,
+  "generated_at": "2026-10-26T07:52:33",
+  "vehicle_count": 440,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -2572,17 +2572,6 @@
     },
     {
       "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBN6TT154786",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/164e69e97bb6.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 45825.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
       "vin": "3C4NJDBN3TT153403",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/75c7b49f1039.html",
       "year": 2026,
@@ -3670,17 +3659,6 @@
       "name": "2026 RAM 1500 Tradesman",
       "vin": "3C6SRFGP3T4151895",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e9eaf838529e.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 63470.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Tradesman",
-      "vin": "3C6SRFGP7T4151897",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/76a1ca6e8543.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
