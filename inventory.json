@@ -1,29 +1,20 @@
 {
   "dealership": "Duncan Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-11-17T09:12:49",
-  "vehicle_count": 447,
+  "generated_at": "2026-11-18T00:22:47",
+  "vehicle_count": 454,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2008 Audi R8 Coupe ",
-      "vin": "WUAAU34218N006378",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/4ba846db717f.html",
-      "year": 2008,
-      "make": "Audi",
-      "model": "R8 Coupe",
+      "name": "2012 Jeep Grand Cherokee Laredo 4WD/Cruise Control/Keyless Entry/Regularly Serviced",
+      "vin": "1C4RJFAG1CC218017",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/8b95bff94673.html",
+      "year": 2012,
+      "make": "Jeep",
+      "model": "Grand Cherokee Laredo 4WD/Cruise Control/Keyless Entry/Regularly Serviced",
       "condition": "used",
-      "price": 79420.0,
+      "price": 6500.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2010 Dodge Grand Caravan Passenger Van SE",
-      "vin": "2D4RN4DEXAR270188",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/517fa529dacd.html",
-      "year": 2010,
-      "make": "Dodge",
-      "model": "Grand Caravan",
-      "condition": "used"
     },
     {
       "name": "2012 Jeep Grand Cherokee Laredo 4WD/Cruise Control/Keyless Entry/Regularly Serviced",
@@ -37,6 +28,24 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2013 Chevrolet Cruze Sedan LT Turbo",
+      "vin": "1G1PE5SB5D7133905",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/7fead5da3438.html",
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "condition": "used"
+    },
+    {
+      "name": "2013 Chevrolet Cruze Sedan LT Turbo",
+      "vin": "1G1PE5SB5D7133905",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/7fead5da3438.html",
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "condition": "used"
+    },
+    {
       "name": "2015 RAM 1500 Sport | Keyless Entry | Cruise Control| BC Owned| Traction Control| Remote Engine Start|",
       "vin": "1C6RR7MT0FS776000",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/efda68e574fb.html",
@@ -45,6 +54,28 @@
       "model": "1500",
       "condition": "used",
       "price": 25500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2015 RAM 1500 Sport | Keyless Entry | Cruise Control| BC Owned| Traction Control| Remote Engine Start|",
+      "vin": "1C6RR7MT0FS776000",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/efda68e574fb.html",
+      "year": 2015,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used",
+      "price": 25500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2016 Honda Odyssey EX/No Reported Accidents/Locally Owned/3.5L V6",
+      "vin": "5FNRL5H4XGB501220",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/8af54e676391.html",
+      "year": 2016,
+      "make": "Honda",
+      "model": "Odyssey EX/No Reported Accidents/Locally Owned/3.5L V6",
+      "condition": "used",
+      "price": 15954.0,
       "price_currency": "CAD"
     },
     {
@@ -255,14 +286,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Jeep Compass North",
-      "vin": "3C4NJDBB2KT661558",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/649bf2e4848c.html",
+      "name": "2019 GMC Sierra 1500 SLT",
+      "vin": "1GTU9DED6KZ409421",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/647408341d7b.html",
       "year": 2019,
-      "make": "Jeep",
-      "model": "Compass",
+      "make": "GMC",
+      "model": "Sierra 1500",
       "condition": "used",
-      "price": 18987.0,
+      "price": 38450.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 GMC Sierra 1500 4WD Crew Cab 147 SLT | Cruise Control | Remote Engine Start | No Reported Accidents! | One Owner! |",
+      "vin": "1GTU9DED6KZ409421",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/647408341d7b.html",
+      "year": 2019,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "used",
+      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
@@ -288,17 +330,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Kia Sedona EX",
-      "vin": "KNDMC5C13K6546219",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/e65009520701.html",
-      "year": 2019,
-      "make": "Kia",
-      "model": "Sedona EX",
-      "condition": "used",
-      "price": 21999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 RAM 1500 Rebel",
       "vin": "1C6SRFLT1KN768137",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/d124f12e5b4c.html",
@@ -315,28 +346,6 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used"
-    },
-    {
-      "name": "2020 Chevrolet Trax AWD 4dr Premier | Heated Seats | Remote Start | Backup Camera | Blind Spot Monitor",
-      "vin": "KL7CJRSB7LB325991",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/aeb709eabec3.html",
-      "year": 2020,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "used",
-      "price": 19728.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Dodge Durango GT AWD | Fully Loaded | Premium Leather!",
-      "vin": "1C4RDJDG3LC258606",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/64930e2a6659.html",
-      "year": 2020,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "used",
-      "price": 27996.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2020 Ford F-350 Super Duty ",
@@ -381,6 +390,26 @@
       "condition": "used",
       "price": 19888.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Jeep Wrangler Sahara| 4x4 | Keyless Start| Bluetooth| Locally Owned| Spare Tire|",
+      "vin": "1C4HJXEN5LW212293",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/eed123eb6512.html",
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "used",
+      "price": 29987.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Jeep Wrangler Sport S 4x4 | No Reported Accidents| Cruise Control| Aluminum Wheels| Backup Camera|",
+      "vin": "1C4GJXAG5LW274991",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/1c32fb54e56d.html",
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "used"
     },
     {
       "name": "2020 Jeep Wrangler Sahara| 4x4 | Keyless Start| Bluetooth| Locally Owned| Spare Tire|",
@@ -568,6 +597,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Chevrolet Equinox LT / AWD / 1.5L l-4 Turbocharged Engine/Cruise Control/Good Reliability",
+      "vin": "3GNAXUEV5NL241971",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/1e8570e98c79.html",
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "condition": "used",
+      "price": 20997.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Chevrolet Equinox RS AWD | Local BC Vehicle | Heated Seats!",
       "vin": "2GNAXWEV0N6117378",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/233cf9a81a2f.html",
@@ -623,17 +663,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Jeep Wrangler Unlimited Rubicon|Backup Camera|Heated Steering Wheel|HD Radio|Bluetooth Integration!",
-      "vin": "1C4HJXFG1NW163158",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/f48307bda05f.html",
-      "year": 2022,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 45410.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Jeep Grand Cherokee Limited 4x4 | Heated & Ventilated Seats!",
       "vin": "1C4RJHBG8N8531422",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/5c80e380aecf.html",
@@ -700,26 +729,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 RAM 1500 Classic Crew Cab Warlock",
-      "vin": "1C6RR7LT2NS248832",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/73dd4bc1b960.html",
-      "year": 2022,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "used"
-    },
-    {
-      "name": "2022 RAM 1500 Sport 4x4 Crew Cab 5'7 Box | Dealer Serviced | HEMI V8 | Tech & Towing Ready!",
-      "vin": "1C6SRFVT8NN400958",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/15e13655675a.html",
-      "year": 2022,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 47999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 RAM 1500 Laramie 4x4 Crew Cab 5'7 Box| Advanced Technology & Everyday Versatility!",
       "vin": "1C6SRFJT4NN167800",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/ec593a98ed44.html",
@@ -794,6 +803,17 @@
       "model": "1500",
       "condition": "used",
       "price": 48884.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Toyota Corolla LE CVT/No Reported Accidents/Service Records Available/BC Owned",
+      "vin": "5YFBPMBEXNP313431",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/a7003d214b29.html",
+      "year": 2022,
+      "make": "Toyota",
+      "model": "Corolla LE CVT/No Reported Accidents/Service Records Available/BC Owned",
+      "condition": "used",
+      "price": 22899.0,
       "price_currency": "CAD"
     },
     {
@@ -984,6 +1004,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Jeep Cherokee Altitude 4x4| Keyless Entry| Bluetooth| Blindspot Monitor| Cross-Traffic Alert|",
+      "vin": "1C4PJMMB6PD113453",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/3e15eedbebbe.html",
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "used",
+      "price": 43988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Jeep Grand Cherokee 4xe 4x4| Dual Pane Sunroof|Remote Engine Start| No Reported Accidents| Locally Owned|",
+      "vin": "1C4RJYB65P8788578",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/b66327e46b7d.html",
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "price": 61988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Jeep Wrangler Sahara 4 Door 4x4| No Reported Accidents| Low Km's| Locally Owned| Bluetooth| Traction Control|",
+      "vin": "1C4HJXEG8PW574173",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/5603bd27027e.html",
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "used",
+      "price": 37447.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Jeep Cherokee Altitude",
       "vin": "1C4PJMMB6PD113453",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/3e15eedbebbe.html",
@@ -1017,36 +1070,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Jeep Cherokee Altitude",
-      "vin": "1C4PJMMB6PD113453",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/3e15eedbebbe.html",
+      "name": "2023 Lexus ES ES 300h | No Reported Accidents | One Owner| BC Owned| Service Records Available|",
+      "vin": "58AB21B11PU013779",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/4043fc5491f3.html",
       "year": 2023,
-      "make": "Jeep",
-      "model": "Cherokee",
+      "make": "Lexus",
+      "model": "ES",
       "condition": "used",
-      "price": 43988.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Jeep Grand Cherokee 4xe Dual Pane Sunroof, Remote Engine Start",
-      "vin": "1C4RJYB65P8788578",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/b66327e46b7d.html",
-      "year": 2023,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 61988.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Jeep Wrangler Sahara 4 Door 4x4",
-      "vin": "1C4HJXEG8PW574173",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/5603bd27027e.html",
-      "year": 2023,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 39888.0,
+      "price": 41210.0,
       "price_currency": "CAD"
     },
     {
@@ -1061,25 +1092,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Lexus ES ES 300h | No Reported Accidents | One Owner!",
-      "vin": "58AB21B11PU013779",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/4043fc5491f3.html",
-      "year": 2023,
-      "make": "Lexus",
-      "model": "ES",
-      "condition": "used",
-      "price": 46206.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Mercedes-Benz GLC Coupe GLC 300 4MATIC Coupe | No Reported Accidents!",
+      "name": "2023 Mercedes-Benz GLC Coupe GLC 300 4MATIC Coupe | No Reported Accidents| BC Owned|",
       "vin": "W1N0J8EBXPG159124",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/052deb4e0e81.html",
       "year": 2023,
       "make": "Mercedes-Benz",
       "model": "GLC",
       "condition": "used",
-      "price": 49650.0,
+      "price": 43261.0,
       "price_currency": "CAD"
     },
     {
@@ -1127,14 +1147,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Volkswagen Taos Trendline 4MOTION *Ltd Avail*",
+      "name": "2023 Toyota Highlander LE AWD| No Reported Accidents| Locally Owned| Service Records Available|",
+      "vin": "5TDKDRBH3PS514422",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/abe2b224b224.html",
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Highlander",
+      "condition": "used",
+      "price": 39835.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Volkswagen Taos Trendline 4MOTION *Ltd Avail* / BC Owned / 1.5L I-4 Turbocharged Engine /",
       "vin": "3VVAX7B22PM322929",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/375619c20f86.html",
       "year": 2023,
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 25999.0,
+      "price": 26789.0,
       "price_currency": "CAD"
     },
     {
@@ -1156,11 +1187,11 @@
       "make": "Chevrolet",
       "model": "Colorado",
       "condition": "used",
-      "price": 43255.0,
+      "price": 39276.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Chevrolet Colorado 4WD Crew Cab ZR2 | Backup Camera | Heated Front Seats | Remote Starter | Bluetooth®",
+      "name": "2024 Chevrolet Colorado 4WD Crew Cab ZR2 | Backup Camera | Heated Front Seats | Remote Starter | Bluetooth®| One Owner|",
       "vin": "1GCPTFEKXR1244281",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/daaafff6735a.html",
       "year": 2024,
@@ -1179,6 +1210,17 @@
       "model": "Malibu",
       "condition": "used",
       "price": 28978.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Chevrolet Trailblazer LT AWD| Heated Seats| Blindspot Monitor|1.3 I-3 Turbocharged Engine| Backup Camera",
+      "vin": "KL79MRSL2RB137088",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/19a0e33746e4.html",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "condition": "used",
+      "price": 29987.0,
       "price_currency": "CAD"
     },
     {
@@ -1226,18 +1268,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Chrysler Grand Caravan SXT | Heated Seats | Remote Start!",
+      "name": "2024 Chrysler Grand Caravan SXT | Heated Seats | Remote Start| Heated Seats/Steering Wheel| Traction Control| 3rd Row Seats|",
       "vin": "2C4RC1ZG3RR199472",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/b7b720f5a0d3.html",
       "year": 2024,
       "make": "Chrysler",
       "model": "Grand Caravan",
       "condition": "used",
-      "price": 42999.0,
+      "price": 44997.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Chrysler Grand Caravan SXT",
+      "name": "2024 Chrysler Grand Caravan SXT 2WD| Low Km's| No Reported Accidents| Locally Owned| Cross-Traffic Alert| Remote Engine Start|",
       "vin": "2C4RC1ZGXRR199274",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/c26caf5fdea1.html",
       "year": 2024,
@@ -1245,6 +1287,28 @@
       "model": "Grand Caravan",
       "condition": "used",
       "price": 41500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Chrysler Grand Caravan SXT 2WD| Traction Control| Bluetooth| Keyless Entry| BC Owned| Heated Seats|",
+      "vin": "2C4RC1ZG8RR171425",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/0729828e8349.html",
+      "year": 2024,
+      "make": "Chrysler",
+      "model": "Grand Caravan",
+      "condition": "used",
+      "price": 36887.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Chrysler Pacifica Touring-L FWD| Lane Keep Assist|Climate Control| Bluetooth|Great Reliability|No Reported Accidents|",
+      "vin": "2C4RC1BG2RR158986",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/205909e5bba1.html",
+      "year": 2024,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "condition": "used",
+      "price": 35658.0,
       "price_currency": "CAD"
     },
     {
@@ -1292,34 +1356,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Dodge Durango R/T Plus AWD | No Reported Accidents!",
-      "vin": "1C4SDJCT9RC207202",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/9a8144632b8a.html",
-      "year": 2024,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "used",
-      "price": 49986.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Dodge Durango SXT AWD | One Owner | No Reported Accidents!",
-      "vin": "1C4RDJAG6RC241652",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/ffb3de578413.html",
-      "year": 2024,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "used",
-      "price": 43899.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Dodge Hornet R/T PHEV EAWD",
+      "name": "2024 Dodge Hornet PHEV R/T PHEV EAWD| Blindspot Monitor| Keyless Entry| Lane Keep Assist| Bluetooth|",
       "vin": "ZACPDFCW4R3A16691",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/9a510d3341a8.html",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/c41484ea90f9.html",
       "year": 2024,
       "make": "Dodge",
-      "model": "Hornet",
+      "model": "Hornet PHEV",
       "condition": "used",
       "price": 39997.0,
       "price_currency": "CAD"
@@ -1336,36 +1378,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford Bronco Badlands 4 Door 4x4 | Convertible | Backup Camera | Bluetooth | Aluminum Wheels",
+      "name": "2024 Ford Bronco Badlands 4 Door 4x4| Convertible| Backup Camera | Bluetooth | Aluminum Wheels| No Reported Accidents",
       "vin": "1FMEE9BP8RLA09350",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/30a45c68c294.html",
       "year": 2024,
       "make": "Ford",
       "model": "Bronco",
       "condition": "used",
-      "price": 62877.0,
+      "price": 58597.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford Expedition Max Limited Max 4x4 | No Accidents | BC Vehicle!",
+      "name": "2024 Ford Expedition Max Limited Max 4x4 | No Reported Accidents| BC Owned| Universal Garage Opener| Keyless Entry|",
       "vin": "1FMJK2A87REA72209",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/2d2c1728041e.html",
       "year": 2024,
       "make": "Ford",
       "model": "Expedition",
       "condition": "used",
-      "price": 69732.0,
+      "price": 69594.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford Expedition Max Limited Max 4x4 | No Reported Accidents | BC Vehicle!",
+      "name": "2024 Ford Expedition Max Limited Max 4x4 | No Reported Accidents | BC Vehicle| Universal Garage Opener| Keyless Entry|",
       "vin": "1FMJK2A89REA71708",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/64f4f57095ee.html",
       "year": 2024,
       "make": "Ford",
       "model": "Expedition",
       "condition": "used",
-      "price": 69733.0,
+      "price": 68722.0,
       "price_currency": "CAD"
     },
     {
@@ -1454,17 +1496,6 @@
       "model": "Kona",
       "condition": "used",
       "price": 29999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Kona Preferred| Adaptive Cruise Control | Heated Seats & Steering Wheel | Blind Spot Monitor!",
-      "vin": "KM8HBCAB4RU093329",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/f586f3f06016.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "used",
-      "price": 28997.0,
       "price_currency": "CAD"
     },
     {
@@ -1556,7 +1587,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Jeep Wrangler Sport 4dr 4x4 | Lift Kit | 33 inch Tires",
+      "name": "2024 Jeep Wrangler Sport 4dr 4x4 | Lift Kit | 33 inch Tires| Traction Control| Cruise Control| Bluetooth| WiFi Hotspot",
       "vin": "1C4PJXDG3RW363544",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/e1c3855c453a.html",
       "year": 2024,
@@ -1564,6 +1595,17 @@
       "model": "Wrangler",
       "condition": "used",
       "price": 68999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Nissan Kicks SV FWD / Heated Front Seats/Traction Control/Great Reliability/No Reported Accidents/BC Owned",
+      "vin": "3N1CP5CV0RL554560",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/e8bac0ce3398.html",
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 23899.0,
       "price_currency": "CAD"
     },
     {
@@ -1600,17 +1642,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 RAM 1500 Tradesman 4x4 Crew Cab 5'7 Box  | Backup Camera | Bluetooth | Cruise Control",
-      "vin": "1C6SRFGT3RN113613",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/e526ab21d66d.html",
-      "year": 2024,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 44897.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 RAM 1500 Classic Crew Cab Tradesman",
       "vin": "1C6RR7KT4RS196885",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/6e315a59ab7c.html",
@@ -1652,6 +1683,17 @@
       "model": "RAV4 Hybrid Hybrid",
       "condition": "used",
       "price": 42979.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Audi S3 Sedan Technik 2.0 TFSI quattro | One Owner! | No Reported Accidents| BC Owned| Regularly Serviced",
+      "vin": "WAUJ5CGY2SA083413",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/ab7ff45e0c16.html",
+      "year": 2025,
+      "make": "Audi",
+      "model": "S3",
+      "condition": "used",
+      "price": 57995.0,
       "price_currency": "CAD"
     },
     {
@@ -1721,14 +1763,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 GMC Sierra 1500 AT4",
+      "name": "2025 GMC Sierra 1500 AT4 4WD Crew Cab 147| Good Reliability| BC Owned| Cross Traffic Alert| Heated Seats| Bluetooth",
       "vin": "1GTUUEE89SZ334415",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/62606aa8571f.html",
       "year": 2025,
       "make": "GMC",
       "model": "Sierra 1500",
       "condition": "used",
-      "price": 72535.0,
+      "price": 75897.0,
       "price_currency": "CAD"
     },
     {
@@ -1919,7 +1961,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Jeep Grand Cherokee Laredo",
+      "name": "2025 Jeep Grand Cherokee Laredo 4x4| Keyless Entry| Lane-Keep Assist| Bluetooth| Traction Control|",
       "vin": "1C4RJHAG9S8791583",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/91096d6bb32e.html",
       "year": 2025,
@@ -1930,7 +1972,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Jeep Wrangler Sport S",
+      "name": "2025 Jeep Wrangler Sport S 4 Door 4x4| Cruise Control| Keyless Entry| Bluetooth| Traction Control| Great Reliability|",
       "vin": "1C4PJXDGXSW554691",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/1581b23d86c5.html",
       "year": 2025,
@@ -1941,7 +1983,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Jeep Wrangler Rubicon X 2 Door 4x4 | Recon Package | Off-Road Plus Mode!",
+      "name": "2025 Jeep Wrangler Rubicon X 2 Door 4x4 | Recon Package | Off-Road Plus Mode| Backup Camera| Great Reliability|",
       "vin": "1C4PJXCG8SW570826",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/1ad8e9319ee4.html",
       "year": 2025,
@@ -1952,13 +1994,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Jeep Wrangler Sport",
+      "name": "2025 Jeep Wrangler Sport 4x4| Cruise Control| Removable Rear Windows|Stability Control| Traction Control|",
       "vin": "1C4PJXAN5SW564337",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/164fde00ced6.html",
       "year": 2025,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "price": 61975.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025 Jeep Wrangler Sahara",
@@ -1969,6 +2013,17 @@
       "model": "Wrangler",
       "condition": "used",
       "price": 84830.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Kia Sportage LX AWD | Good Reliability| No Reported Accidents| BC Owned|",
+      "vin": "KNDPUCDF1S7383251",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/e710db2d3374.html",
+      "year": 2025,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "used",
+      "price": 29989.0,
       "price_currency": "CAD"
     },
     {
@@ -2005,18 +2060,29 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Nissan Kicks Play SV",
+      "name": "2025 Nissan Rogue AWD SV Moonroof| Cruise Control| Keyless Entry| Blindspot Monitor| Good Reliability| BC Owned|",
+      "vin": "JN8BT3BB3SW157199",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/49c418878c41.html",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 29997.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Nissan Kicks Play SV FWD/Heated Front Seats/ Traction Control/ Hands-Free Assist/ No Reported Accidents",
       "vin": "3N1CP5CV1SL472018",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/f1ce0dacffd0.html",
       "year": 2025,
       "make": "Nissan",
-      "model": "Kicks",
+      "model": "Kicks Play SV FWD/Heated Front Seats/ Traction Control/ Hands-Free Assist/ No Reported Accidents",
       "condition": "used",
       "price": 24987.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Nissan Kicks SV | Remote Start | Heated Seats!",
+      "name": "2025 Nissan Kicks SV|Remote Start|Heated Seats|Remote Start| Auto Start/Stop| No Reported Accidents|Locally Owned",
       "vin": "3N8AP6CA5SL308055",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/ea467a427b25.html",
       "year": 2025,
@@ -2071,7 +2137,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 RAM 1500 Sport",
+      "name": "2025 RAM 1500 Sport 4x4 Crew Cab 5'7 Box | Traction Control| Cruise Control| Remote Engine Start|",
       "vin": "1C6SRFVP3SN619177",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/99636a78037b.html",
       "year": 2025,
@@ -2082,7 +2148,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 RAM 1500 Tradesman 4x4 Crew Cab 6'4 Box | One Owner | No Reported Accidents!",
+      "name": "2025 RAM 1500 Tradesman 4x4 Crew Cab 6'4 Box | One Owner | No Reported Accidents| Blindspot Monitor|",
       "vin": "1C6SRFNP4SN686130",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/73352d23001e.html",
       "year": 2025,
@@ -2104,14 +2170,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Toyota RAV4 Limited AWD",
-      "vin": "2T3D1RFV1SW516601",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/8e22e7980d06.html",
+      "name": "2025 Volkswagen Taos Trendline 4MOTION / 1.5L l-4 Turbocharged Engine / Good Reliability /",
+      "vin": "3VV8C7B24SM055666",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/2a23bbb80775.html",
       "year": 2025,
-      "make": "Toyota",
-      "model": "RAV4",
+      "make": "Volkswagen",
+      "model": "Taos",
       "condition": "used",
-      "price": 49877.0,
+      "price": 28467.0,
       "price_currency": "CAD"
     },
     {
@@ -2126,17 +2192,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 4WD Crew Cab 157 LT | Backup Camera | Bluetooth | Heated Seats | Aluminum Wheels",
-      "vin": "3GCUKDED3TG207951",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/d0afb9df224e.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 53947.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Chevrolet Silverado 3500 LTZ",
       "vin": "2GC4KUEYXT1121189",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/ca8300d73ba4.html",
@@ -2148,7 +2203,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 3500 LTZ",
+      "name": "2026 Chevrolet Silverado 3500 4WD Crew Cab 159 LTZ | Cruise Control| Heated Seats| Remote Engine Start| V8 Turbocharged Diesel",
       "vin": "2GC4KUEYXT1121189",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/ca8300d73ba4.html",
       "year": 2026,
@@ -2170,18 +2225,29 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Charger Scat Pack Plus",
+      "name": "2026 Dodge Durango GT Plus AWD| Climate Control| WiFi Hotspot| Sunroof| Bluetooth| Traction Control|",
+      "vin": "1C4RDJDG0TC273015",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/fc673e55e57b.html",
+      "year": 2026,
+      "make": "Dodge",
+      "model": "Durango",
+      "condition": "used",
+      "price": 64675.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Dodge Charger Scat Pack Plus AWD| Adaptive Cruise Control | Heated Seats | Heated Steering Wheel",
       "vin": "2C3CDAMP5TR245986",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/4920907866d7.html",
       "year": 2026,
       "make": "Dodge",
       "model": "Charger",
       "condition": "new",
-      "price": 79665.0,
+      "price": 76665.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango GT Plus",
+      "name": "2026 Dodge Durango GT Plus AWD | 10.1 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "1C4RDJDG6TC194240",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/929d514997d1.html",
       "year": 2026,
@@ -2192,29 +2258,29 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango GT",
+      "name": "2026 Dodge Durango GT AWD | 10.1 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "1C4RDJDG2TC234832",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/72937afa6c93.html",
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
       "condition": "new",
-      "price": 56888.0,
+      "price": 56767.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango GT",
+      "name": "2026 Dodge Durango GT AWD | 10.1 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "1C4RDJDG1TC255994",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/0f031087504f.html",
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
       "condition": "new",
-      "price": 56888.0,
+      "price": 58530.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango GT Plus",
+      "name": "2026 Dodge Durango GT Plus AWD | 10.1 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "1C4RDJDG6TC255456",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e33cb2cb23f9.html",
       "year": 2026,
@@ -2225,7 +2291,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango GT Plus",
+      "name": "2026 Dodge Durango GT Plus AWD | 10.1 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "1C4RDJDG7TC267048",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/67cd091a6513.html",
       "year": 2026,
@@ -2280,7 +2346,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango GT Plus",
+      "name": "2026 Dodge Durango GT Plus AWD| Keyless Entry| Traction Control| Sunroof| Bluetooth| 3rd Row Seat",
       "vin": "1C4RDJDG1TC234840",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/de3aef57190b.html",
       "year": 2026,
@@ -2409,534 +2475,6 @@
       "model": "Durango",
       "condition": "new",
       "price": 58530.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass Sport",
-      "vin": "3C4NJDANXTT156168",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/f35feae040d6.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "used",
-      "price": 34888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass Sport",
-      "vin": "3C4NJDAN0TT153828",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/2199b595c68e.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "used",
-      "price": 36995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBNXTT153401",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/757e19568fbc.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "used",
-      "price": 39888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass Sport",
-      "vin": "3C4NJDAN2TT211518",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/3326f4f656d3.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "used",
-      "price": 37702.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass Sport",
-      "vin": "3C4NJDAN8TT242997",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/09487e72eed9.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "used",
-      "price": 37590.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass Sport",
-      "vin": "3C4NJDAN3TT242986",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/69f1cf5da3ea.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "used",
-      "price": 37590.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Cherokee Laredo",
-      "vin": "3C4PJMB28TT229762",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/27cff1082061.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 47885.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Cherokee Laredo",
-      "vin": "3C4PJMB22TT229756",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/c94cbc428870.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 47885.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Cherokee Laredo 4X4",
-      "vin": "3C4PJMB25TT216063",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/26a1dcf78d3f.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 47885.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBN3TT153398",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/6834147ccbdd.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 41590.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBN5TT155394",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/22ac97f8087c.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 45925.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBNXTT155391",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/7b261e398c5e.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 42980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBN1TT155392",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/ebc0db09d63d.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 42980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBN1TT153660",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e31d6d40ed4e.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 43975.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBN0TT155299",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/1190da8d537b.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 43080.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBN4TT154785",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/ac4c47a18b7e.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 45825.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBN0TT153388",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/64ff16108ecf.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 39090.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBN5TT153662",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e40be647dd17.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 46920.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBN5TT155315",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/0859e3623310.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 43080.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBN7TT154778",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/1efb1fe7737e.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 43080.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBN2TT154767",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/90b5b04918fa.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 45825.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBN9TT155317",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/072a1800535b.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 42580.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBN9TT155298",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/7698e06be01c.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 42580.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBN0TT202489",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/b60ed9d8526f.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 41590.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBN7TT202490",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/b28eebb1ec13.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 42085.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBN0TT202492",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/d53b503c27dd.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 42085.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBN7TT208810",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/5f8123840ca9.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 41585.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBN0TT208812",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/5053276080a3.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 42085.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBN9TT208811",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/7f702063b726.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 42085.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass Sport",
-      "vin": "3C4NJDAN9TT242992",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/ba811fb4d7e8.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 34990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass Sport",
-      "vin": "3C4NJDAN0TT242993",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/d178986e1a61.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 34990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass Sport",
-      "vin": "3C4NJDAN2TT242994",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/428d67aafd3f.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 34990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Gladiator Sport S",
-      "vin": "1C6PJTAG0TL176565",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/d7fa9c84a2c1.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Gladiator",
-      "condition": "new",
-      "price": 49888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Gladiator Mojave X",
-      "vin": "1C6RJTEG2TL176571",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/deedc2f200f4.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Gladiator",
-      "condition": "new",
-      "price": 79680.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Gladiator Mojave X",
-      "vin": "1C6RJTEG1TL181096",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/df84685dd00c.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Gladiator",
-      "condition": "new",
-      "price": 80275.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Grand Cherokee L Altitude",
-      "vin": "1C4RJKAR3T8569962",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/5783a4dedeae.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Grand Cherokee L",
-      "condition": "new",
-      "price": 69475.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Grand Cherokee L Altitude",
-      "vin": "1C4RJKAR1T8569961",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/149207a3389f.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Grand Cherokee L",
-      "condition": "new",
-      "price": 68880.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Grand Cherokee L Altitude",
-      "vin": "1C4RJKARXT8569960",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/c88d45ca65cc.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Grand Cherokee L",
-      "condition": "new",
-      "price": 69475.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Grand Cherokee Altitude ! 0.99% APR/$2500 Cash Incentive",
-      "vin": "1C4RJHAR9TC258276",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/155fed23ad05.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "new",
-      "price": 59888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Wrangler Willys",
-      "vin": "1C4RJXDG1TW217451",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/f6cb570deef3.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 69310.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Wrangler Sahara",
-      "vin": "1C4PJXEGXTW243813",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/656b6813195f.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 66470.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Wrangler Sahara",
-      "vin": "1C4PJXEG7TW260441",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/623a56145204.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 66080.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Wrangler Sahara",
-      "vin": "1C4PJXEG3TW243815",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/0673269c5fd7.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 66870.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Wrangler Rubicon",
-      "vin": "1C4RJXFG5TW267363",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/7ddba005c2d0.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 79950.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Wrangler Sport",
-      "vin": "1C4PJXAN0TW297805",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e003357acaa8.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 46585.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Wrangler ",
-      "vin": "1C4PJXEG6TW267946",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/50e2045c687c.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": -10000.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Wrangler Sport",
-      "vin": "1C4PJXAN8TW165746",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e72e9678b7a3.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 48056.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Wrangler Sport",
-      "vin": "1C4PJXAN5TW160777",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/12bca5d574db.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 45861.0,
       "price_currency": "CAD"
     },
     {
@@ -3490,6 +3028,556 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Jeep Compass Sport 4x4| 2.0L I-4 Turbocharged Engine| Low Km's| Traction Control| Cruise Control| Bluetooth|",
+      "vin": "3C4NJDANXTT156168",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/f35feae040d6.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "used",
+      "price": 34888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass Sport 4x4| 2.0 I-4 Turbocharged Engine| Lane Keep Assist| Bluetooth| Keyless Start| Low Km's|",
+      "vin": "3C4NJDAN0TT153828",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/2199b595c68e.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "used",
+      "price": 36995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass North 4x4| Great Reliability| No Reported Accidents| Locally Owned|",
+      "vin": "3C4NJDBNXTT153401",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/757e19568fbc.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "used",
+      "price": 39888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass Sport",
+      "vin": "3C4NJDAN2TT211518",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/3326f4f656d3.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "used",
+      "price": 37702.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass Sport",
+      "vin": "3C4NJDAN8TT242997",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/09487e72eed9.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "used",
+      "price": 37590.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass Sport",
+      "vin": "3C4NJDAN3TT242986",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/69f1cf5da3ea.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "used",
+      "price": 37590.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass Sport 4x4 | Heated Seats| Transmission w/Dual Shift Mode| 2.0 I-4 Turbocharged Engine|",
+      "vin": "3C4NJDAN8TT156170",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/9c3c203e9d09.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "used",
+      "price": 37390.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Wrangler Sahara 4 Door 4x4| Keyless Entry| Traction Control| Bluetooth| Heated Seats|",
+      "vin": "1C4PJXEG1TW243814",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/c26812dedb2b.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "used",
+      "price": 67070.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Cherokee Laredo",
+      "vin": "3C4PJMB28TT229762",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/27cff1082061.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 47885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Cherokee Laredo",
+      "vin": "3C4PJMB22TT229756",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/c94cbc428870.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 47885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Cherokee Laredo 4X4",
+      "vin": "3C4PJMB25TT216063",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/26a1dcf78d3f.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 47885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass North",
+      "vin": "3C4NJDBN3TT153398",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/6834147ccbdd.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 41590.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass North",
+      "vin": "3C4NJDBN5TT155394",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/22ac97f8087c.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 45925.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass North",
+      "vin": "3C4NJDBNXTT155391",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/7b261e398c5e.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 42980.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass North",
+      "vin": "3C4NJDBN1TT155392",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/ebc0db09d63d.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 42980.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass North",
+      "vin": "3C4NJDBN1TT153660",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e31d6d40ed4e.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 43975.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass North",
+      "vin": "3C4NJDBN0TT155299",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/1190da8d537b.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 43080.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass North",
+      "vin": "3C4NJDBN4TT154785",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/ac4c47a18b7e.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 45825.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass North",
+      "vin": "3C4NJDBN0TT153388",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/64ff16108ecf.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 39090.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass North",
+      "vin": "3C4NJDBN5TT153662",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e40be647dd17.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 46920.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass North",
+      "vin": "3C4NJDBN5TT155315",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/0859e3623310.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 43080.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass North",
+      "vin": "3C4NJDBN7TT154778",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/1efb1fe7737e.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 43080.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass North",
+      "vin": "3C4NJDBN2TT154767",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/90b5b04918fa.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 45825.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass North",
+      "vin": "3C4NJDBN9TT155317",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/072a1800535b.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 42580.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass North",
+      "vin": "3C4NJDBN9TT155298",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/7698e06be01c.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 42580.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass North",
+      "vin": "3C4NJDBN0TT202489",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/b60ed9d8526f.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 41590.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass North",
+      "vin": "3C4NJDBN7TT202490",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/b28eebb1ec13.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 42085.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass North",
+      "vin": "3C4NJDBN0TT202492",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/d53b503c27dd.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 42085.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass North",
+      "vin": "3C4NJDBN7TT208810",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/5f8123840ca9.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 41585.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass North",
+      "vin": "3C4NJDBN0TT208812",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/5053276080a3.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 42085.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass North",
+      "vin": "3C4NJDBN9TT208811",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/7f702063b726.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 42085.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass Sport",
+      "vin": "3C4NJDAN9TT242992",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/ba811fb4d7e8.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 34990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass Sport",
+      "vin": "3C4NJDAN0TT242993",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/d178986e1a61.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 34990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass Sport",
+      "vin": "3C4NJDAN2TT242994",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/428d67aafd3f.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 34990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Gladiator Sport S",
+      "vin": "1C6PJTAG0TL176565",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/d7fa9c84a2c1.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Gladiator",
+      "condition": "new",
+      "price": 49888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Gladiator Mojave X",
+      "vin": "1C6RJTEG2TL176571",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/deedc2f200f4.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Gladiator",
+      "condition": "new",
+      "price": 79680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Gladiator Mojave X",
+      "vin": "1C6RJTEG1TL181096",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/df84685dd00c.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Gladiator",
+      "condition": "new",
+      "price": 80275.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Grand Cherokee L Altitude",
+      "vin": "1C4RJKAR3T8569962",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/5783a4dedeae.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Grand Cherokee L",
+      "condition": "new",
+      "price": 69475.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Grand Cherokee L Altitude",
+      "vin": "1C4RJKAR1T8569961",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/149207a3389f.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Grand Cherokee L",
+      "condition": "new",
+      "price": 68880.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Grand Cherokee L Altitude",
+      "vin": "1C4RJKARXT8569960",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/c88d45ca65cc.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Grand Cherokee L",
+      "condition": "new",
+      "price": 69475.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Grand Cherokee Altitude ! 0.99% APR/$2500 Cash Incentive",
+      "vin": "1C4RJHAR9TC258276",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/155fed23ad05.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "price": 59888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Wrangler Willys",
+      "vin": "1C4RJXDG1TW217451",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/f6cb570deef3.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": 69310.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Wrangler Sahara",
+      "vin": "1C4PJXEGXTW243813",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/656b6813195f.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": 66470.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Wrangler Sahara",
+      "vin": "1C4PJXEG7TW260441",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/623a56145204.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": 66080.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Wrangler Sahara",
+      "vin": "1C4PJXEG3TW243815",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/0673269c5fd7.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": 66870.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Wrangler Rubicon",
+      "vin": "1C4RJXFG5TW267363",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/7ddba005c2d0.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": 79950.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Wrangler Sport",
+      "vin": "1C4PJXAN0TW297805",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e003357acaa8.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": 46585.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Wrangler ",
+      "vin": "1C4PJXEG6TW267946",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/50e2045c687c.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": -10000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Wrangler Sport",
+      "vin": "1C4PJXAN8TW165746",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e72e9678b7a3.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": 48056.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Wrangler Sport",
+      "vin": "1C4PJXAN5TW160777",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/12bca5d574db.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": 45861.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7 Box | Adaptive Cruise Control!",
       "vin": "1C6SRFLP3TN182298",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/62dbeb586533.html",
@@ -3498,17 +3586,6 @@
       "model": "1500",
       "condition": "used",
       "price": 69877.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7 Box | Ventilated And Heated Front Seats | Dual Wireless Charging!!!",
-      "vin": "1C6SRFLP7TN179078",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/3df201a8c39c.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 72469.0,
       "price_currency": "CAD"
     },
     {
@@ -3773,17 +3850,6 @@
       "model": "1500",
       "condition": "used",
       "price": 69877.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7 Box | Ventilated And Heated Front Seats | Dual Wireless Charging!!!",
-      "vin": "1C6SRFLP7TN179078",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/3df201a8c39c.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 72469.0,
       "price_currency": "CAD"
     },
     {
@@ -4258,6 +4324,15 @@
       "condition": "new",
       "price": 60270.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2027 RAM 1500 Rebel 4x4 Crew Cab 5'7 Box| Heated Leather Seats| Traction Control| Lane Keep Assist|",
+      "vin": "1C6SRFLP2VN557293",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/aa8beeaa3279.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used"
     },
     {
       "name": "2027 RAM 1500 Rebel 4x4 Crew Cab 5'7 Box | Second Row Heated Seats| Trailer-Brake Control",
@@ -4293,95 +4368,103 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 Sport",
+      "name": "2027 RAM 1500 Sport 4x4 Crew Cab 6'4 Box | Trailer Tow Group",
       "vin": "1C6SRFTP7VN598356",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/2e47cbfccb07.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 84965.0,
+      "price": 80965.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 Sport",
+      "name": "2027 RAM 1500 Sport 4x4 Crew Cab 6'4 Box | Trailer Tow Group",
       "vin": "1C6SRFTP9VN598357",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/6e853808f0a7.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 84570.0,
+      "price": 80570.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 Express",
+      "name": "2027 RAM 1500 Express 4x4 Quad Cab 6'4 Box | Trailer Tow Group",
       "vin": "1C6RRFCG8VN588417",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/c18cf5bc9c7c.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 66335.0,
+      "price": 63335.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 Sport",
+      "name": "2027 RAM 1500 Sport 4x4 Crew Cab 5'7 Box | Second Row Heated Seats | Trailer Tow Group",
       "vin": "3C6SRFVP5V4502182",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/d7ee3d0cf1ae.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 93760.0,
+      "price": 89760.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 Sport",
+      "name": "2027 RAM 1500 Sport 4x4 Crew Cab 6'4 Box | Trailer Tow Group",
       "vin": "1C6SRFTP0VN598358",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/891570fb2cc4.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 84570.0,
+      "price": 80570.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500",
+      "name": "2027 RAM 1500 Big Horn",
       "vin": "3C6SRFFP7V4518916",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/65796fc81c78.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "price": -4000.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500",
+      "name": "2027 RAM 1500 Big Horn",
       "vin": "3C6SRFFP9V4518917",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/ce015c6a9d20.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "price": 71130.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500",
+      "name": "2027 RAM 1500 Express",
       "vin": "3C6RRFGG7V4518606",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/d7510b785728.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "price": -3000.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500",
+      "name": "2027 RAM 1500 Express",
       "vin": "3C6RRFGG6V4518614",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/2116b5ad3c41.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "price": -3000.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 RAM 1500",
