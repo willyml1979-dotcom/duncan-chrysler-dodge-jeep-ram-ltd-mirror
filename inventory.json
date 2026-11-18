@@ -1,6 +1,6 @@
 {
   "dealership": "Duncan Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-11-18T00:22:47",
+  "generated_at": "2026-11-18T00:29:25",
   "vehicle_count": 454,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -2368,18 +2368,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Charger Scat Pack Plus",
+      "name": "2026 Dodge Charger Scat Pack Plus AWD| Adaptive Cruise Control | Heated Seats | Heated Steering Wheel",
       "vin": "2C3CDAMP5TR245986",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/4920907866d7.html",
       "year": 2026,
       "make": "Dodge",
       "model": "Charger",
       "condition": "new",
-      "price": 79665.0,
+      "price": 76665.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango GT Plus",
+      "name": "2026 Dodge Durango GT Plus AWD | 10.1 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "1C4RDJDG6TC194240",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/929d514997d1.html",
       "year": 2026,
@@ -2390,29 +2390,29 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango GT",
+      "name": "2026 Dodge Durango GT AWD | 10.1 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "1C4RDJDG2TC234832",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/72937afa6c93.html",
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
       "condition": "new",
-      "price": 56888.0,
+      "price": 56767.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango GT",
+      "name": "2026 Dodge Durango GT AWD | 10.1 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "1C4RDJDG1TC255994",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/0f031087504f.html",
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
       "condition": "new",
-      "price": 56888.0,
+      "price": 58530.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango GT Plus",
+      "name": "2026 Dodge Durango GT Plus AWD | 10.1 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "1C4RDJDG6TC255456",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e33cb2cb23f9.html",
       "year": 2026,
@@ -2423,7 +2423,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango GT Plus",
+      "name": "2026 Dodge Durango GT Plus AWD | 10.1 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "1C4RDJDG7TC267048",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/67cd091a6513.html",
       "year": 2026,
@@ -2434,7 +2434,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango GT Plus",
+      "name": "2026 Dodge Durango GT Plus AWD | 10.1 Inch Display | Heated Steering Wheel Heated Front Seats",
       "vin": "1C4RDJDG4TC255455",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/790500df69b0.html",
       "year": 2026,
@@ -2445,7 +2445,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango GT Plus",
+      "name": "2026 Dodge Durango GT Plus AWD | 10.1 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "1C4RDJDG9TC273014",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/23fdb711c745.html",
       "year": 2026,
@@ -4672,80 +4672,80 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 Rebel",
+      "name": "2027 RAM 1500 Rebel 4x4 Crew Cab 5'7 Box | Second Row Heated Seats | Trailer Tow Group",
       "vin": "1C6SRFLP0VN568597",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/ee31ad11222f.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 94960.0,
+      "price": 90960.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 TRX",
+      "name": "2027 RAM 1500 TRX 4x4 Crew Cab 5'7 Box | Second Row Heated Seats | Memory Mirrors | Memory Seats",
       "vin": "1C6SRFU96VN595237",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/8686bfb8f023.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 151875.0,
+      "price": 174875.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 Sport",
+      "name": "2027 RAM 1500 Sport 4x4 Crew Cab 6'4 Box | Trailer Tow Group",
       "vin": "1C6SRFTP7VN598356",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/2e47cbfccb07.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 84965.0,
+      "price": 80965.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 Sport",
+      "name": "2027 RAM 1500 Sport 4x4 Crew Cab 6'4 Box | Trailer Tow Group",
       "vin": "1C6SRFTP9VN598357",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/6e853808f0a7.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 84570.0,
+      "price": 80570.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 Express",
+      "name": "2027 RAM 1500 Express 4x4 Quad Cab 6'4 Box | Trailer Tow Group",
       "vin": "1C6RRFCG8VN588417",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/c18cf5bc9c7c.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 66335.0,
+      "price": 63335.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 Sport",
+      "name": "2027 RAM 1500 Sport 4x4 Crew Cab 5'7 Box | Second Row Heated Seats | Trailer Tow Group",
       "vin": "3C6SRFVP5V4502182",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/d7ee3d0cf1ae.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 93760.0,
+      "price": 89760.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 Sport",
+      "name": "2027 RAM 1500 Sport 4x4 Crew Cab 6'4 Box | Trailer Tow Group",
       "vin": "1C6SRFTP0VN598358",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/891570fb2cc4.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 84570.0,
+      "price": 80570.0,
       "price_currency": "CAD"
     },
     {
