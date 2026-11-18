@@ -1,6 +1,6 @@
 {
   "dealership": "Duncan Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-11-18T09:40:47",
+  "generated_at": "2026-11-18T09:45:44",
   "vehicle_count": 452,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -2438,7 +2438,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango GT Plus",
+      "name": "2026 Dodge Durango GT Plus AWD | 10.1 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "1C4RDJDG1TC288431",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/0042c7260017.html",
       "year": 2026,
@@ -3098,7 +3098,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Laredo",
+      "name": "2026 Jeep Cherokee Laredo 4x4 | 12.3 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "3C4PJMB28TT229762",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/27cff1082061.html",
       "year": 2026,
@@ -3461,25 +3461,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Wrangler Willys",
+      "name": "2026 Jeep Wrangler Willys 4x4 | 12.3 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "1C4RJXDG1TW217451",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/f6cb570deef3.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "new",
-      "price": 69310.0,
+      "price": 66310.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Wrangler Sahara",
+      "name": "2026 Jeep Wrangler Sahara 4x4 | 12.3 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "1C4PJXEGXTW243813",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/656b6813195f.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "new",
-      "price": 66470.0,
+      "price": 63470.0,
       "price_currency": "CAD"
     },
     {
@@ -3989,18 +3989,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Tradesman",
+      "name": "2026 RAM 3500 Tradesman 4x4 Crew Cab 8' Box | 8.4 Inch Display | Turbocharged Diesel",
       "vin": "3C63R3GL2TG295193",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e764ced9ada3.html",
       "year": 2026,
       "make": "RAM",
       "model": "3500",
       "condition": "new",
-      "price": 84854.0,
+      "price": 87854.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Laramie",
+      "name": "2026 RAM 3500 Laramie 4x4 Crew Cab 6'4 Box | 14.4 Inch Display | Front Heated Seats | Heated Steering Wheel",
       "vin": "3C63R3EL2TG314943",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/6668f6397271.html",
       "year": 2026,
@@ -4011,7 +4011,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Laramie",
+      "name": "2026 RAM 3500 Laramie 4x4 Crew Cab 8' Box | 12 Inch Display | Front Heated Seats | Heated Steering Wheel",
       "vin": "3C63RRJLXTG285443",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/7833cf6117e8.html",
       "year": 2026,
@@ -4022,18 +4022,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Tradesman",
+      "name": "2026 RAM 3500 Tradesman 4x4 Crew Cab 6'4 Box | 8.4 Inch Display | Turbocharged Diesel",
       "vin": "3C63R3CLXTG323389",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/4072411353d0.html",
       "year": 2026,
       "make": "RAM",
       "model": "3500",
       "condition": "new",
-      "price": 81876.0,
+      "price": 85410.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Tradesman",
+      "name": "2026 RAM 3500 Tradesman 4x4 Crew Cab 6'4 Box | 8.4 Inch Display | Turbocharged Diesel",
       "vin": "3C63R3CL8TG323391",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/f2beee83f4d7.html",
       "year": 2026,
@@ -4044,7 +4044,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Laramie",
+      "name": "2026 RAM 3500 Laramie 4x4 Crew Cab 6'4 Box | Front Heated Seats | Heated Steering Wheel |",
       "vin": "3C63R3EL6TG346276",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/3b97acef0b92.html",
       "year": 2026,
@@ -4055,7 +4055,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Laramie",
+      "name": "2026 RAM 3500 Laramie 4x4 Crew Cab 6'4 Box | Front Heated Seats | Heated Steering Wheel",
       "vin": "3C63R3EL4TG346275",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/04de6544bafb.html",
       "year": 2026,
@@ -4066,7 +4066,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Laramie",
+      "name": "2026 RAM 3500 Laramie 4x4 Crew Cab 6'4 Box | 14.4 Inch Display | Front Heated Seats | Heated Steering Wheel",
       "vin": "3C63R3EL0TG314942",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/94762d004e7a.html",
       "year": 2026,
@@ -4077,14 +4077,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 ",
+      "name": "2026 RAM 3500 Big Horn 4x4 Crew Cab 6'4 Box | Front Heated Seats | Heated Steering Wheel",
       "vin": "3C63R3DL2TG346499",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/6f55dfb2b4b9.html",
       "year": 2026,
       "make": "RAM",
       "model": "3500",
       "condition": "new",
-      "price": -11000.0,
+      "price": 92390.0,
       "price_currency": "CAD"
     },
     {
@@ -4923,7 +4923,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 2500 Tradesman",
+      "name": "2027 RAM 2500 Tradesman 4x4 Crew Cab 8' Box | 8.4 Inch Display",
       "vin": "3C6UR5HJ6VG355945",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/1f3f4c7e9411.html",
       "year": 2027,
@@ -4934,7 +4934,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 2500 Tradesman",
+      "name": "2027 RAM 2500 Tradesman 4x4 Crew Cab 8' Box | 8.4 Inch Display |",
       "vin": "3C6UR5HJ4VG355944",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/1b4e1055a910.html",
       "year": 2027,
