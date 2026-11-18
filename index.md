@@ -1,6 +1,6 @@
 # Duncan Chrysler Dodge Jeep Ram Ltd.
 
- dealership in Duncan. AI-readable inventory mirror, about 454 vehicles.
+ dealership in Duncan. AI-readable inventory mirror, about 452 vehicles.
 
 - Official website: https://www.duncandodge.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/

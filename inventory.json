@@ -1,7 +1,7 @@
 {
   "dealership": "Duncan Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-11-18T00:29:25",
-  "vehicle_count": 454,
+  "generated_at": "2026-11-18T09:40:47",
+  "vehicle_count": 452,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -26,15 +26,6 @@
       "condition": "used",
       "price": 6500.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2013 Chevrolet Cruze Sedan LT Turbo",
-      "vin": "1G1PE5SB5D7133905",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/7fead5da3438.html",
-      "year": 2013,
-      "make": "Chevrolet",
-      "model": "Cruze",
-      "condition": "used"
     },
     {
       "name": "2013 Chevrolet Cruze Sedan LT Turbo",
@@ -145,13 +136,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 BMW X1 xDrive28i",
+      "name": "2017 BMW X1 xDrive28i AWD /2.0 1-4L Turbocharged Engine/Cruise Control/Keyless Entry/Bluetooth Audio",
       "vin": "WBXHT3C36H5F86175",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/749e926ec95d.html",
       "year": 2017,
       "make": "BMW",
-      "model": "X1",
-      "condition": "used"
+      "model": "X1 xDrive28i AWD /2.0 1-4L Turbocharged Engine/Cruise Control/Keyless Entry/Bluetooth Audio",
+      "condition": "used",
+      "price": 17995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2017 Ford Escape SE",
@@ -165,12 +158,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Ford Escape SE",
+      "name": "2017 Ford Escape SE /4WD/2.0L Ecoboost Engine/ keyless Entry /Low Km's/Locally Owned",
       "vin": "1FMCU9G95HUB18538",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/03f37770a299.html",
       "year": 2017,
       "make": "Ford",
-      "model": "Escape",
+      "model": "Escape SE /4WD/2.0L Ecoboost Engine/ keyless Entry /Low Km's/Locally Owned",
       "condition": "used",
       "price": 13997.0,
       "price_currency": "CAD"
@@ -253,7 +246,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Jeep Compass Trailhawk 4x4 | GPS Navigation | Remote Start!",
+      "name": "2018 Jeep Compass Trailhawk 4x4 | GPS Navigation | Remote Start | Keyless Entry | One Owner | No Reported Accidents",
       "vin": "3C4NJDDB2JT326165",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/b6d18f4cdadc.html",
       "year": 2018,
@@ -275,7 +268,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 RAM 1500 Harvest",
+      "name": "2018 RAM 1500 Harvest 4x4 Quad Cab 6'4 Box *Ltd Avail* | Cruise Control| Keyless Entry| Good Reliability|",
       "vin": "1C6RR7GT1JS181080",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/50a02332f3c4.html",
       "year": 2018,
@@ -319,14 +312,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Jeep Grand Cherokee Altitude 4x4 | No Reported Accidents!",
+      "name": "2019 Jeep Grand Cherokee Altitude 4x4 | No Reported Accidents | Keyless Entry | Blindspot Monitor| Low Km's | Locally Owned",
       "vin": "1C4RJFAG2KC680102",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/8343bfffcbe0.html",
       "year": 2019,
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 28965.0,
+      "price": 25517.0,
       "price_currency": "CAD"
     },
     {
@@ -370,7 +363,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Ford F-350 Super Duty ",
+      "name": "2020 Ford F-350 Super Duty 4x4 | Keyless Entry| Backup Camera| Universal Garage Opener| BC Owned|",
       "vin": "1FT8W3BT6LEC84039",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/0bb7ba268d20.html",
       "year": 2020,
@@ -465,7 +458,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Ford Escape SE",
+      "name": "2021 Ford Escape SE AWD | Auto Start/Stop | Auto Highbeams | Service Records Available | BC Owned",
       "vin": "1FMCU9G60MUA53050",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/02c3f5f78218.html",
       "year": 2021,
@@ -476,25 +469,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Ford Expedition XLT 4x4",
+      "name": "2021 Ford Expedition XLT 4x4| Low Km's| Wireless Charging| Universal Garage Opener| BC Owned|",
       "vin": "1FMJU1JT4MEA47060",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/f777a7f95c00.html",
       "year": 2021,
       "make": "Ford",
       "model": "Expedition",
       "condition": "used",
-      "price": 49359.0,
+      "price": 45838.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Ford F-150 4x4|Locally Owned| Service Records!",
+      "name": "2021 Ford F-150 4x4|Locally Owned| Service Records Available| Trailer Sway Control| Lane Keep Assist| Keyless Entry|",
       "vin": "1FTFW1E88MKE09869",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/ce0179087d20.html",
       "year": 2021,
       "make": "Ford",
       "model": "F-150 4x4",
       "condition": "used",
-      "price": 41512.0,
+      "price": 37614.0,
       "price_currency": "CAD"
     },
     {
@@ -509,7 +502,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Hyundai Kona Preferred AWD | No Reported Accidents | One Owner!",
+      "name": "2021 Hyundai Kona Preferred AWD | No Reported Accidents | One Owner | Traction Control | Blindspot Monitor |",
       "vin": "KM8K2CAA4MU728233",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/c51a9e6746cb.html",
       "year": 2021,
@@ -1059,17 +1052,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Jeep Wrangler Sahara 4 Door 4x4",
-      "vin": "1C4HJXEG8PW574173",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/5603bd27027e.html",
-      "year": 2023,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 39888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Lexus ES ES 300h | No Reported Accidents | One Owner| BC Owned| Service Records Available|",
       "vin": "58AB21B11PU013779",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/4043fc5491f3.html",
@@ -1411,14 +1393,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford Transit Cargo Van | 250 148 Med Rf 9070 GVWR AWD |  Back-Up Camera | Keyless Entry!",
+      "name": "2024 Ford Transit Cargo Van | 250 148 Med Rf 9070 GVWR AWD |  Back-Up Camera | Keyless Entry| BC Owned|",
       "vin": "1FTBR2C84RKA31877",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/409a57e21508.html",
       "year": 2024,
       "make": "Ford",
       "model": "Transit Cargo",
       "condition": "used",
-      "price": 49999.0,
+      "price": 46537.0,
       "price_currency": "CAD"
     },
     {
@@ -1466,14 +1448,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 GMC Terrain SLE | No Accidents!! | Air Conditioning!!",
+      "name": "2024 GMC Terrain SLE| AWD| Remote Start | Heated Seats | No Reported Accidents|",
       "vin": "3GKALTEG8RL273615",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/1e7494e0029f.html",
       "year": 2024,
       "make": "GMC",
       "model": "Terrain",
       "condition": "used",
-      "price": 30560.0,
+      "price": 33989.0,
       "price_currency": "CAD"
     },
     {
@@ -1488,25 +1470,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Hyundai Kona Preferred AWD | No Reported Accidents | BC Vehicle!",
+      "name": "2024 Hyundai Kona Preferred AWD | No Reported Accidents | BC Owned Vehicle| Traction Control| Blindspot Monitor|",
       "vin": "KM8HBCAB6RU166295",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/76a3d45b4768.html",
       "year": 2024,
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 29999.0,
+      "price": 31789.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Hyundai Santa Fe Ultimate Calligraphy AWD | One Owner | No Accidents!",
+      "name": "2024 Hyundai Santa Fe Ultimate Calligraphy AWD | One Owner | No Accidents| Bluetooth| Cross-Traffic Alert|Traction Control",
       "vin": "5NMP5DGL2RH036034",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/52ec05b49006.html",
       "year": 2024,
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 45775.0,
+      "price": 42994.0,
       "price_currency": "CAD"
     },
     {
@@ -1543,18 +1525,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Jeep Grand Cherokee Laredo 4x4 Sport Utility | One Owner | No Reported Accidents!",
+      "name": "2024 Jeep Grand Cherokee Laredo 4x4 Sport Utility | One Owner | No Reported Accidents| Lane Keep Assist| Traction Control|",
       "vin": "1C4RJHAG6RC236291",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/9cd733083848.html",
       "year": 2024,
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 41886.0,
+      "price": 37800.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Jeep Wrangler Sport 4dr 4x4 | Lift Kit | 33 inch Tires",
+      "name": "2024 Jeep Wrangler Sport 4dr 4x4 | Lift Kit | 33 inch Tires| Traction Control| Cruise Control| Bluetooth| WiFi Hotspot",
       "vin": "1C4PJXDG3RW363544",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/e1c3855c453a.html",
       "year": 2024,
@@ -1620,18 +1602,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 RAM 1500 Classic Crew Cab Tradesman",
+      "name": "2024 RAM 1500 Classic Crew Cab Tradesman 4x4 Crew Cab 5'7 Box| Cruise Control| Bluetooth| Heated Mirrors|",
       "vin": "1C6RR7KT4RS196885",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/6e315a59ab7c.html",
       "year": 2024,
       "make": "RAM",
       "model": "1500 Classic",
       "condition": "used",
-      "price": 56985.0,
+      "price": 46465.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 RAM 1500 Classic Crew Cab Tradesman 4x4 Crew Cab 5'7 Box | One Owner | No Accidents!",
+      "name": "2024 RAM 1500 Classic Crew Cab Tradesman 4x4 Crew Cab 5'7 Box | One Owner | No Accidents! | Low Km's|",
       "vin": "1C6RR7KT7RS196721",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/c4b3af81ac78.html",
       "year": 2024,
@@ -1705,17 +1687,6 @@
       "model": "S3",
       "condition": "used",
       "price": 57995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Chevrolet Silverado 1500 LT|No Accidents|Locally owned!",
-      "vin": "3GCUKDEDXSG216922",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/c3b68f8c0b64.html",
-      "year": 2025,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 48984.0,
       "price_currency": "CAD"
     },
     {
@@ -1730,14 +1701,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Chrysler Grand Caravan SXT | Heated Seats | Power Liftgate!",
-      "vin": "2C4RC1ZG4SR605782",
-      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/56256bbebd45.html",
+      "name": "2025 Chevrolet Silverado 1500 LT|No Accidents|Locally owned| Remote Start| Lane Keep Assist| Bluetooth| Traction Control|",
+      "vin": "3GCUKDEDXSG216922",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/c3b68f8c0b64.html",
       "year": 2025,
-      "make": "Chrysler",
-      "model": "Grand Caravan",
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
       "condition": "used",
-      "price": 42328.0,
+      "price": 42989.0,
       "price_currency": "CAD"
     },
     {
@@ -1752,7 +1723,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 GMC Sierra 1500 AT4",
+      "name": "2025 Chrysler Grand Caravan SXT | One Owner| No Reported Accidents| Heated Seats | Power Liftgate| Adaptive Cruise Control|",
+      "vin": "2C4RC1ZG4SR605782",
+      "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/56256bbebd45.html",
+      "year": 2025,
+      "make": "Chrysler",
+      "model": "Grand Caravan",
+      "condition": "used",
+      "price": 39336.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 GMC Sierra 1500 AT4 4WD Crew Cab 147| Good Reliability| BC Owned| Cross Traffic Alert| Heated Seats| Bluetooth",
       "vin": "1GTUUEE89SZ334415",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/62606aa8571f.html",
       "year": 2025,
@@ -1796,7 +1778,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Jeep Compass North",
+      "name": "2025 Jeep Compass North 4x4| Keyless Entry| Heated Seats| Traction Control| Bluetooth| Backup Camera|",
       "vin": "3C4NJDBN5ST566065",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/5d1b5ebebfee.html",
       "year": 2025,
@@ -2302,7 +2284,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango GT Plus",
+      "name": "2026 Dodge Durango GT Plus AWD | 10.1 Inch Display | Heated Steering Wheel Heated Front Seats",
       "vin": "1C4RDJDG4TC255455",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/790500df69b0.html",
       "year": 2026,
@@ -2313,7 +2295,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango GT Plus",
+      "name": "2026 Dodge Durango GT Plus AWD | 10.1 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "1C4RDJDG9TC273014",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/23fdb711c745.html",
       "year": 2026,
@@ -2324,7 +2306,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango GT Plus",
+      "name": "2026 Dodge Durango GT Plus AWD | 10.1 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "1C4RDJDG1TC288431",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/0042c7260017.html",
       "year": 2026,
@@ -2566,7 +2548,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Laredo",
+      "name": "2026 Jeep Cherokee Laredo 4x4 | 12.3 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "3C4PJMB28TT229762",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/27cff1082061.html",
       "year": 2026,
@@ -2577,7 +2559,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Laredo",
+      "name": "2026 Jeep Cherokee Laredo 4x4 | 12.3 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "3C4PJMB22TT229756",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/c94cbc428870.html",
       "year": 2026,
@@ -3061,7 +3043,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Sport",
+      "name": "2026 Jeep Compass Sport 4x4| No Reported Accidents| Locally Owned| Low Km's|",
       "vin": "3C4NJDAN2TT211518",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/3326f4f656d3.html",
       "year": 2026,
@@ -3072,7 +3054,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Sport",
+      "name": "2026 Jeep Compass Sport 4x4| 2.0 I-4 Turbocharged Engine| Cruise Control| Traction Control| Bluetooth|",
       "vin": "3C4NJDAN8TT242997",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/09487e72eed9.html",
       "year": 2026,
@@ -3083,7 +3065,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Sport",
+      "name": "2026 Jeep Compass Sport 4x4| 2.0 I-4 Turbocharged Engine| Cruise Control| Traction Control| Bluetooth| Keyless Start|",
       "vin": "3C4NJDAN3TT242986",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/69f1cf5da3ea.html",
       "year": 2026,
@@ -3743,18 +3725,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Tradesman",
+      "name": "2026 RAM 3500 Tradesman 4x4 Crew Cab 8' Box | 8.4 Inch Display | Turbocharged Diesel",
       "vin": "3C63R3GL2TG295193",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e764ced9ada3.html",
       "year": 2026,
       "make": "RAM",
       "model": "3500",
       "condition": "new",
-      "price": 84854.0,
+      "price": 87854.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Laramie",
+      "name": "2026 RAM 3500 Laramie 4x4 Crew Cab 6'4 Box | 14.4 Inch Display | Front Heated Seats | Heated Steering Wheel",
       "vin": "3C63R3EL2TG314943",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/6668f6397271.html",
       "year": 2026,
@@ -3765,7 +3747,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Laramie",
+      "name": "2026 RAM 3500 Laramie 4x4 Crew Cab 8' Box | 12 Inch Display | Front Heated Seats | Heated Steering Wheel",
       "vin": "3C63RRJLXTG285443",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/7833cf6117e8.html",
       "year": 2026,
@@ -3776,18 +3758,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Tradesman",
+      "name": "2026 RAM 3500 Tradesman 4x4 Crew Cab 6'4 Box | 8.4 Inch Display | Turbocharged Diesel",
       "vin": "3C63R3CLXTG323389",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/4072411353d0.html",
       "year": 2026,
       "make": "RAM",
       "model": "3500",
       "condition": "new",
-      "price": 81876.0,
+      "price": 85410.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Tradesman",
+      "name": "2026 RAM 3500 Tradesman 4x4 Crew Cab 6'4 Box | 8.4 Inch Display | Turbocharged Diesel",
       "vin": "3C63R3CL8TG323391",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/f2beee83f4d7.html",
       "year": 2026,
@@ -3798,7 +3780,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Laramie",
+      "name": "2026 RAM 3500 Laramie 4x4 Crew Cab 6'4 Box | Front Heated Seats | Heated Steering Wheel |",
       "vin": "3C63R3EL6TG346276",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/3b97acef0b92.html",
       "year": 2026,
@@ -3809,7 +3791,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Laramie",
+      "name": "2026 RAM 3500 Laramie 4x4 Crew Cab 6'4 Box | Front Heated Seats | Heated Steering Wheel",
       "vin": "3C63R3EL4TG346275",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/04de6544bafb.html",
       "year": 2026,
@@ -3820,7 +3802,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Laramie",
+      "name": "2026 RAM 3500 Laramie 4x4 Crew Cab 6'4 Box | 14.4 Inch Display | Front Heated Seats | Heated Steering Wheel",
       "vin": "3C63R3EL0TG314942",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/94762d004e7a.html",
       "year": 2026,
@@ -3831,18 +3813,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 ",
+      "name": "2026 RAM 3500 Big Horn 4x4 Crew Cab 6'4 Box | Front Heated Seats | Heated Steering Wheel",
       "vin": "3C63R3DL2TG346499",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/6f55dfb2b4b9.html",
       "year": 2026,
       "make": "RAM",
       "model": "3500",
       "condition": "new",
-      "price": -11000.0,
+      "price": 92390.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7 Box | Adaptive Cruise Control!",
+      "name": "2026 RAM 1500 Rebel 4x4 Crew Cab 5'7 Box | Adaptive Cruise Control| No Reported Accidents| Keyless Entry|",
       "vin": "1C6SRFLP3TN182298",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/used/62dbeb586533.html",
       "year": 2026,
@@ -4619,7 +4601,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 2500 Tradesman",
+      "name": "2027 RAM 2500 Tradesman 4x4 Crew Cab 8' Box | 8.4 Inch Display",
       "vin": "3C6UR5HJ6VG355945",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/1f3f4c7e9411.html",
       "year": 2027,
