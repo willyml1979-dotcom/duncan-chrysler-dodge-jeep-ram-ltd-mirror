@@ -1,6 +1,6 @@
 {
   "dealership": "Duncan Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-11-18T20:01:36",
+  "generated_at": "2026-11-18T20:11:29",
   "vehicle_count": 450,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -3091,7 +3091,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Laredo",
+      "name": "2026 Jeep Cherokee Laredo 4x4 | 12.3 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "3C4PJMB22TT229756",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/c94cbc428870.html",
       "year": 2026,
@@ -3102,7 +3102,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Laredo 4X4",
+      "name": "2026 Jeep Cherokee Laredo 4X4 | 12.3 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "3C4PJMB25TT216063",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/26a1dcf78d3f.html",
       "year": 2026,
@@ -3113,7 +3113,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass North",
+      "name": "2026 Jeep Compass North| 4x4 | Remote Start | Heated Seats | Heated Steering Wheel | 10.1-Inch Touchscreen",
       "vin": "3C4NJDBN3TT153398",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/6834147ccbdd.html",
       "year": 2026,
@@ -3124,7 +3124,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass North",
+      "name": "2026 Jeep Compass North 4x4 | 10.1 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "3C4NJDBN5TT155394",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/22ac97f8087c.html",
       "year": 2026,
@@ -3135,7 +3135,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass North",
+      "name": "2026 Jeep Compass North 4x4 | 10.1 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "3C4NJDBNXTT155391",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/7b261e398c5e.html",
       "year": 2026,
@@ -3146,7 +3146,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass North",
+      "name": "2026 Jeep Compass North 4x4 | 10.1 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "3C4NJDBN1TT155392",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/ebc0db09d63d.html",
       "year": 2026,
@@ -3157,7 +3157,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass North",
+      "name": "2026 Jeep Compass North 4x4 | 10.1 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "3C4NJDBN1TT153660",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/e31d6d40ed4e.html",
       "year": 2026,
@@ -3465,36 +3465,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Wrangler Sahara",
+      "name": "2026 Jeep Wrangler Sahara 4x4 | 12.3 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "1C4PJXEG7TW260441",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/623a56145204.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "new",
-      "price": 66080.0,
+      "price": 59580.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Wrangler Sahara",
+      "name": "2026 Jeep Wrangler Sahara 4x4 | 12.3 Inch Display | Heated Front Seats | Heated Steering Wheel",
       "vin": "1C4PJXEG3TW243815",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/0673269c5fd7.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "new",
-      "price": 66870.0,
+      "price": 63870.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Wrangler Rubicon",
+      "name": "2026 Jeep Wrangler Rubicon 4x4 | 12.3 Inch Display |  Xtreme 35–Inch Tire Package | Steel Bumper Group |",
       "vin": "1C4RJXFG5TW267363",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/7ddba005c2d0.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "new",
-      "price": 79950.0,
+      "price": 78450.0,
       "price_currency": "CAD"
     },
     {
@@ -3509,7 +3509,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Wrangler ",
+      "name": "2026 Jeep Wrangler Sahara",
       "vin": "1C4PJXEG6TW267946",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/50e2045c687c.html",
       "year": 2026,
@@ -4735,31 +4735,37 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500",
+      "name": "2027 RAM 1500 Express",
       "vin": "3C6RRFGG7V4518606",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/d7510b785728.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "price": -3000.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500",
+      "name": "2027 RAM 1500 Express",
       "vin": "3C6RRFGG6V4518614",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/2116b5ad3c41.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "price": 67290.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500",
+      "name": "2027 RAM 1500 Sport",
       "vin": "3C6SRFVP7V4520506",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/9b0570fc7068.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "price": -4000.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 RAM 1500 Rebel",
@@ -4927,7 +4933,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 3500 Tradesman",
+      "name": "2027 RAM 3500 Tradesman 4x4 Crew Cab 6'4 Box | 8.4 Inch Display  |",
       "vin": "3C63R3CJ9VG383651",
       "url": "https://willyml1979-dotcom.github.io/duncan-chrysler-dodge-jeep-ram-ltd-mirror/new/6cc1ea0d0193.html",
       "year": 2027,
